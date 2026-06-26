@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React developer with nextjs and shadcn",
+  "industry": ""
+}

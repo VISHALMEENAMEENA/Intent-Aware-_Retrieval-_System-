@@ -1,0 +1,2735 @@
+[
+  {
+    "query_id": "Q001",
+    "query": "python backend developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q002",
+    "query": "with 0 to 2 years python backend developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q003",
+    "query": "senior python backend developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q004",
+    "query": "in pune python backend developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q005",
+    "query": "in bengaluru python backend developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q006",
+    "query": "remote python backend developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q007",
+    "query": "full time python backend developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q008",
+    "query": "with docker python backend developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q009",
+    "query": "with sql python backend developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi",
+      "with",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q010",
+    "query": "with cloud python backend developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "backend",
+      "developer",
+      "fastapi"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q011",
+    "query": "java spring boot developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "java",
+      "spring boot",
+      "developer"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "java",
+      "spring boot",
+      "developer",
+      "spring",
+      "boot"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q012",
+    "query": "with 0 to 2 years java spring boot developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "java",
+      "spring boot",
+      "developer",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "java",
+      "spring boot",
+      "developer",
+      "spring",
+      "boot"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q013",
+    "query": "senior java spring boot developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "java",
+      "spring boot",
+      "developer",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "java",
+      "spring boot",
+      "developer",
+      "spring",
+      "boot"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q014",
+    "query": "in pune java spring boot developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "java",
+      "spring boot",
+      "developer",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "java",
+      "spring boot",
+      "developer",
+      "spring",
+      "boot"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q015",
+    "query": "in bengaluru java spring boot developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "java",
+      "spring boot",
+      "developer",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "java",
+      "spring boot",
+      "developer",
+      "spring",
+      "boot"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q016",
+    "query": "remote java spring boot developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "java",
+      "spring boot",
+      "developer",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "java",
+      "spring boot",
+      "developer",
+      "spring",
+      "boot"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q017",
+    "query": "full time java spring boot developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "java",
+      "spring boot",
+      "developer",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "java",
+      "spring boot",
+      "developer",
+      "spring",
+      "boot"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q018",
+    "query": "with docker java spring boot developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "java",
+      "spring boot",
+      "developer",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "java",
+      "spring boot",
+      "developer",
+      "spring",
+      "boot"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q019",
+    "query": "with sql java spring boot developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "java",
+      "spring boot",
+      "developer",
+      "with",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "java",
+      "spring boot",
+      "developer",
+      "spring",
+      "boot"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q020",
+    "query": "with cloud java spring boot developer",
+    "intent": "profile_search",
+    "expected_entities": [
+      "java",
+      "spring boot",
+      "developer",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "java",
+      "spring boot",
+      "developer",
+      "spring",
+      "boot"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q021",
+    "query": "devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_entities": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "engineer"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q022",
+    "query": "with 0 to 2 years devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_entities": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "engineer"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q023",
+    "query": "senior devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_entities": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "engineer"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q024",
+    "query": "in pune devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_entities": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "engineer"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q025",
+    "query": "in bengaluru devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_entities": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "engineer"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q026",
+    "query": "remote devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_entities": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "engineer"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q027",
+    "query": "full time devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_entities": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "engineer"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q028",
+    "query": "with docker devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_entities": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "engineer"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q029",
+    "query": "with sql devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_entities": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "with",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "engineer"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q030",
+    "query": "with cloud devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_entities": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "with"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "devops",
+      "cloud",
+      "ci/cd",
+      "aws",
+      "engineer"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q031",
+    "query": "qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_entities": [
+      "qa",
+      "automation",
+      "selenium"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "automation",
+      "selenium",
+      "tester"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q032",
+    "query": "with 0 to 2 years qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_entities": [
+      "qa",
+      "automation",
+      "selenium",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "automation",
+      "selenium",
+      "tester"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q033",
+    "query": "senior qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_entities": [
+      "qa",
+      "automation",
+      "selenium",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "automation",
+      "selenium",
+      "tester"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q034",
+    "query": "in pune qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_entities": [
+      "qa",
+      "automation",
+      "selenium",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "automation",
+      "selenium",
+      "tester"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q035",
+    "query": "in bengaluru qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_entities": [
+      "qa",
+      "automation",
+      "selenium",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "automation",
+      "selenium",
+      "tester"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q036",
+    "query": "remote qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_entities": [
+      "qa",
+      "automation",
+      "selenium",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "automation",
+      "selenium",
+      "tester"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q037",
+    "query": "full time qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_entities": [
+      "qa",
+      "automation",
+      "selenium",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "automation",
+      "selenium",
+      "tester"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q038",
+    "query": "with docker qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_entities": [
+      "qa",
+      "automation",
+      "selenium",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "automation",
+      "selenium",
+      "tester"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q039",
+    "query": "with sql qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_entities": [
+      "qa",
+      "automation",
+      "selenium",
+      "with",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "automation",
+      "selenium",
+      "tester"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q040",
+    "query": "with cloud qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_entities": [
+      "qa",
+      "automation",
+      "selenium",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "automation",
+      "selenium",
+      "tester"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q041",
+    "query": "data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_entities": [
+      "data",
+      "sql",
+      "power bi"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data",
+      "sql",
+      "power bi",
+      "analyst"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q042",
+    "query": "with 0 to 2 years data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_entities": [
+      "data",
+      "sql",
+      "power bi",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data",
+      "sql",
+      "power bi",
+      "analyst"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q043",
+    "query": "senior data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_entities": [
+      "data",
+      "sql",
+      "power bi",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data",
+      "sql",
+      "power bi",
+      "analyst"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q044",
+    "query": "in pune data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_entities": [
+      "data",
+      "sql",
+      "power bi",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data",
+      "sql",
+      "power bi",
+      "analyst"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q045",
+    "query": "in bengaluru data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_entities": [
+      "data",
+      "sql",
+      "power bi",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data",
+      "sql",
+      "power bi",
+      "analyst"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q046",
+    "query": "remote data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_entities": [
+      "data",
+      "sql",
+      "power bi",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data",
+      "sql",
+      "power bi",
+      "analyst"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q047",
+    "query": "full time data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_entities": [
+      "data",
+      "sql",
+      "power bi",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data",
+      "sql",
+      "power bi",
+      "analyst"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q048",
+    "query": "with docker data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_entities": [
+      "data",
+      "sql",
+      "power bi",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data",
+      "sql",
+      "power bi",
+      "analyst"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q049",
+    "query": "with sql data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_entities": [
+      "data",
+      "sql",
+      "power bi",
+      "with"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data",
+      "sql",
+      "power bi",
+      "analyst"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q050",
+    "query": "with cloud data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_entities": [
+      "data",
+      "sql",
+      "power bi",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data",
+      "sql",
+      "power bi",
+      "analyst"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q051",
+    "query": "regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_entities": [
+      "regulatory affairs",
+      "compliance",
+      "fda"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "regulatory",
+      "affairs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q052",
+    "query": "with 0 to 2 years regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_entities": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "regulatory",
+      "affairs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q053",
+    "query": "senior regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_entities": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "regulatory",
+      "affairs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q054",
+    "query": "in pune regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_entities": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "regulatory",
+      "affairs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q055",
+    "query": "in bengaluru regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_entities": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "regulatory",
+      "affairs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q056",
+    "query": "remote regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_entities": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "regulatory",
+      "affairs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q057",
+    "query": "full time regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_entities": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "regulatory",
+      "affairs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q058",
+    "query": "with docker regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_entities": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "regulatory",
+      "affairs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q059",
+    "query": "with sql regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_entities": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "with",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "regulatory",
+      "affairs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q060",
+    "query": "with cloud regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_entities": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "regulatory affairs",
+      "compliance",
+      "fda",
+      "regulatory",
+      "affairs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q061",
+    "query": "backend jobs in pune",
+    "intent": "job_search",
+    "expected_entities": [
+      "backend",
+      "pune",
+      "developer"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "backend",
+      "pune",
+      "developer",
+      "jobs",
+      "in"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q062",
+    "query": "with 0 to 2 years backend jobs in pune",
+    "intent": "job_search",
+    "expected_entities": [
+      "backend",
+      "pune",
+      "developer",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "backend",
+      "pune",
+      "developer",
+      "jobs",
+      "in"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q063",
+    "query": "senior backend jobs in pune",
+    "intent": "job_search",
+    "expected_entities": [
+      "backend",
+      "pune",
+      "developer",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "backend",
+      "pune",
+      "developer",
+      "jobs",
+      "in"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q064",
+    "query": "in pune backend jobs in pune",
+    "intent": "job_search",
+    "expected_entities": [
+      "backend",
+      "pune",
+      "developer",
+      "in"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "backend",
+      "pune",
+      "developer",
+      "jobs",
+      "in"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q065",
+    "query": "in bengaluru backend jobs in pune",
+    "intent": "job_search",
+    "expected_entities": [
+      "backend",
+      "pune",
+      "developer",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "backend",
+      "pune",
+      "developer",
+      "jobs",
+      "in"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q066",
+    "query": "remote backend jobs in pune",
+    "intent": "job_search",
+    "expected_entities": [
+      "backend",
+      "pune",
+      "developer",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "backend",
+      "pune",
+      "developer",
+      "jobs",
+      "in"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q067",
+    "query": "full time backend jobs in pune",
+    "intent": "job_search",
+    "expected_entities": [
+      "backend",
+      "pune",
+      "developer",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "backend",
+      "pune",
+      "developer",
+      "jobs",
+      "in"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q068",
+    "query": "with docker backend jobs in pune",
+    "intent": "job_search",
+    "expected_entities": [
+      "backend",
+      "pune",
+      "developer",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "backend",
+      "pune",
+      "developer",
+      "jobs",
+      "in"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q069",
+    "query": "with sql backend jobs in pune",
+    "intent": "job_search",
+    "expected_entities": [
+      "backend",
+      "pune",
+      "developer",
+      "with",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "backend",
+      "pune",
+      "developer",
+      "jobs",
+      "in"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q070",
+    "query": "with cloud backend jobs in pune",
+    "intent": "job_search",
+    "expected_entities": [
+      "backend",
+      "pune",
+      "developer",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "backend",
+      "pune",
+      "developer",
+      "jobs",
+      "in"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q071",
+    "query": "servicenow technical lead",
+    "intent": "job_search",
+    "expected_entities": [
+      "servicenow",
+      "technical lead",
+      "itbm"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "technical",
+      "lead"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q072",
+    "query": "with 0 to 2 years servicenow technical lead",
+    "intent": "job_search",
+    "expected_entities": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "technical",
+      "lead"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q073",
+    "query": "senior servicenow technical lead",
+    "intent": "job_search",
+    "expected_entities": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "technical",
+      "lead"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q074",
+    "query": "in pune servicenow technical lead",
+    "intent": "job_search",
+    "expected_entities": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "technical",
+      "lead"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q075",
+    "query": "in bengaluru servicenow technical lead",
+    "intent": "job_search",
+    "expected_entities": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "technical",
+      "lead"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q076",
+    "query": "remote servicenow technical lead",
+    "intent": "job_search",
+    "expected_entities": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "technical",
+      "lead"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q077",
+    "query": "full time servicenow technical lead",
+    "intent": "job_search",
+    "expected_entities": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "technical",
+      "lead"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q078",
+    "query": "with docker servicenow technical lead",
+    "intent": "job_search",
+    "expected_entities": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "technical",
+      "lead"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q079",
+    "query": "with sql servicenow technical lead",
+    "intent": "job_search",
+    "expected_entities": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "with",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "technical",
+      "lead"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q080",
+    "query": "with cloud servicenow technical lead",
+    "intent": "job_search",
+    "expected_entities": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "servicenow",
+      "technical lead",
+      "itbm",
+      "technical",
+      "lead"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q081",
+    "query": "test manager bengaluru",
+    "intent": "job_search",
+    "expected_entities": [
+      "test manager",
+      "bengaluru",
+      "selenium"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "test",
+      "manager"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q082",
+    "query": "with 0 to 2 years test manager bengaluru",
+    "intent": "job_search",
+    "expected_entities": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "test",
+      "manager"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q083",
+    "query": "senior test manager bengaluru",
+    "intent": "job_search",
+    "expected_entities": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "test",
+      "manager"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q084",
+    "query": "in pune test manager bengaluru",
+    "intent": "job_search",
+    "expected_entities": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "test",
+      "manager"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q085",
+    "query": "in bengaluru test manager bengaluru",
+    "intent": "job_search",
+    "expected_entities": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "in"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "test",
+      "manager"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q086",
+    "query": "remote test manager bengaluru",
+    "intent": "job_search",
+    "expected_entities": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "test",
+      "manager"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q087",
+    "query": "full time test manager bengaluru",
+    "intent": "job_search",
+    "expected_entities": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "test",
+      "manager"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q088",
+    "query": "with docker test manager bengaluru",
+    "intent": "job_search",
+    "expected_entities": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "test",
+      "manager"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q089",
+    "query": "with sql test manager bengaluru",
+    "intent": "job_search",
+    "expected_entities": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "with",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "test",
+      "manager"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q090",
+    "query": "with cloud test manager bengaluru",
+    "intent": "job_search",
+    "expected_entities": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "test manager",
+      "bengaluru",
+      "selenium",
+      "test",
+      "manager"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q091",
+    "query": "data engineer jobs python sql",
+    "intent": "job_search",
+    "expected_entities": [
+      "data engineer",
+      "python",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data engineer",
+      "python",
+      "sql",
+      "data",
+      "engineer",
+      "jobs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q092",
+    "query": "with 0 to 2 years data engineer jobs python sql",
+    "intent": "job_search",
+    "expected_entities": [
+      "data engineer",
+      "python",
+      "sql",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data engineer",
+      "python",
+      "sql",
+      "data",
+      "engineer",
+      "jobs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q093",
+    "query": "senior data engineer jobs python sql",
+    "intent": "job_search",
+    "expected_entities": [
+      "data engineer",
+      "python",
+      "sql",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data engineer",
+      "python",
+      "sql",
+      "data",
+      "engineer",
+      "jobs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q094",
+    "query": "in pune data engineer jobs python sql",
+    "intent": "job_search",
+    "expected_entities": [
+      "data engineer",
+      "python",
+      "sql",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data engineer",
+      "python",
+      "sql",
+      "data",
+      "engineer",
+      "jobs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q095",
+    "query": "in bengaluru data engineer jobs python sql",
+    "intent": "job_search",
+    "expected_entities": [
+      "data engineer",
+      "python",
+      "sql",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data engineer",
+      "python",
+      "sql",
+      "data",
+      "engineer",
+      "jobs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q096",
+    "query": "remote data engineer jobs python sql",
+    "intent": "job_search",
+    "expected_entities": [
+      "data engineer",
+      "python",
+      "sql",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data engineer",
+      "python",
+      "sql",
+      "data",
+      "engineer",
+      "jobs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q097",
+    "query": "full time data engineer jobs python sql",
+    "intent": "job_search",
+    "expected_entities": [
+      "data engineer",
+      "python",
+      "sql",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data engineer",
+      "python",
+      "sql",
+      "data",
+      "engineer",
+      "jobs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q098",
+    "query": "with docker data engineer jobs python sql",
+    "intent": "job_search",
+    "expected_entities": [
+      "data engineer",
+      "python",
+      "sql",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data engineer",
+      "python",
+      "sql",
+      "data",
+      "engineer",
+      "jobs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q099",
+    "query": "with sql data engineer jobs python sql",
+    "intent": "job_search",
+    "expected_entities": [
+      "data engineer",
+      "python",
+      "sql",
+      "with"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data engineer",
+      "python",
+      "sql",
+      "data",
+      "engineer",
+      "jobs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q100",
+    "query": "with cloud data engineer jobs python sql",
+    "intent": "job_search",
+    "expected_entities": [
+      "data engineer",
+      "python",
+      "sql",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "data engineer",
+      "python",
+      "sql",
+      "data",
+      "engineer",
+      "jobs"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q101",
+    "query": "python developer responsibilities",
+    "intent": "jd_search",
+    "expected_entities": [
+      "python",
+      "developer",
+      "backend"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "developer",
+      "backend",
+      "responsibilities"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q102",
+    "query": "with 0 to 2 years python developer responsibilities",
+    "intent": "jd_search",
+    "expected_entities": [
+      "python",
+      "developer",
+      "backend",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "developer",
+      "backend",
+      "responsibilities"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q103",
+    "query": "senior python developer responsibilities",
+    "intent": "jd_search",
+    "expected_entities": [
+      "python",
+      "developer",
+      "backend",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "developer",
+      "backend",
+      "responsibilities"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q104",
+    "query": "in pune python developer responsibilities",
+    "intent": "jd_search",
+    "expected_entities": [
+      "python",
+      "developer",
+      "backend",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "developer",
+      "backend",
+      "responsibilities"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q105",
+    "query": "in bengaluru python developer responsibilities",
+    "intent": "jd_search",
+    "expected_entities": [
+      "python",
+      "developer",
+      "backend",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "developer",
+      "backend",
+      "responsibilities"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q106",
+    "query": "remote python developer responsibilities",
+    "intent": "jd_search",
+    "expected_entities": [
+      "python",
+      "developer",
+      "backend",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "developer",
+      "backend",
+      "responsibilities"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q107",
+    "query": "full time python developer responsibilities",
+    "intent": "jd_search",
+    "expected_entities": [
+      "python",
+      "developer",
+      "backend",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "developer",
+      "backend",
+      "responsibilities"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q108",
+    "query": "with docker python developer responsibilities",
+    "intent": "jd_search",
+    "expected_entities": [
+      "python",
+      "developer",
+      "backend",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "developer",
+      "backend",
+      "responsibilities"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q109",
+    "query": "with sql python developer responsibilities",
+    "intent": "jd_search",
+    "expected_entities": [
+      "python",
+      "developer",
+      "backend",
+      "with",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "developer",
+      "backend",
+      "responsibilities"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q110",
+    "query": "with cloud python developer responsibilities",
+    "intent": "jd_search",
+    "expected_entities": [
+      "python",
+      "developer",
+      "backend",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "python",
+      "developer",
+      "backend",
+      "responsibilities"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q111",
+    "query": "qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_entities": [
+      "qa",
+      "test cases",
+      "regression"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "test cases",
+      "regression",
+      "engineer",
+      "test"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q112",
+    "query": "with 0 to 2 years qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_entities": [
+      "qa",
+      "test cases",
+      "regression",
+      "with",
+      "0",
+      "to",
+      "2",
+      "years"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "test cases",
+      "regression",
+      "engineer",
+      "test"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q113",
+    "query": "senior qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_entities": [
+      "qa",
+      "test cases",
+      "regression",
+      "senior"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "test cases",
+      "regression",
+      "engineer",
+      "test"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q114",
+    "query": "in pune qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_entities": [
+      "qa",
+      "test cases",
+      "regression",
+      "in",
+      "pune"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "test cases",
+      "regression",
+      "engineer",
+      "test"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q115",
+    "query": "in bengaluru qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_entities": [
+      "qa",
+      "test cases",
+      "regression",
+      "in",
+      "bengaluru"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "test cases",
+      "regression",
+      "engineer",
+      "test"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q116",
+    "query": "remote qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_entities": [
+      "qa",
+      "test cases",
+      "regression",
+      "remote"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "test cases",
+      "regression",
+      "engineer",
+      "test"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q117",
+    "query": "full time qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_entities": [
+      "qa",
+      "test cases",
+      "regression",
+      "full",
+      "time"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "test cases",
+      "regression",
+      "engineer",
+      "test"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q118",
+    "query": "with docker qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_entities": [
+      "qa",
+      "test cases",
+      "regression",
+      "with",
+      "docker"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "test cases",
+      "regression",
+      "engineer",
+      "test"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q119",
+    "query": "with sql qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_entities": [
+      "qa",
+      "test cases",
+      "regression",
+      "with",
+      "sql"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "test cases",
+      "regression",
+      "engineer",
+      "test"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  },
+  {
+    "query_id": "Q120",
+    "query": "with cloud qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_entities": [
+      "qa",
+      "test cases",
+      "regression",
+      "with",
+      "cloud"
+    ],
+    "expected_relevant_candidates": [],
+    "expected_relevant_jobs": [],
+    "expected_relevant_jd": [],
+    "expected_keywords": [
+      "qa",
+      "test cases",
+      "regression",
+      "engineer",
+      "test"
+    ],
+    "notes": "Bootstrap query. Add relevant chunk_ids manually for strict evaluation."
+  }
+]

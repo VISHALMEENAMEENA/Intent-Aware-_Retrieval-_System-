@@ -1,0 +1,46 @@
+{
+  "python backend": {
+    "role": "backend developer",
+    "languages": ["python"],
+    "frameworks": ["fastapi", "django", "flask"],
+    "tools": ["docker", "git", "postman"],
+    "databases": ["postgresql", "mysql", "mongodb", "redis"],
+    "cloud": ["aws", "azure"],
+    "concepts": ["rest api", "microservices"]
+  },
+  "java backend": {
+    "role": "backend developer",
+    "languages": ["java"],
+    "frameworks": ["spring boot", "spring"],
+    "tools": ["docker", "git", "postman"],
+    "databases": ["postgresql", "mysql", "sql server"],
+    "cloud": ["aws", "azure"],
+    "concepts": ["rest api", "microservices"]
+  },
+  "frontend": {
+    "role": "frontend developer",
+    "languages": ["javascript", "typescript"],
+    "frameworks": ["react", "react.js", "angular", "vue", "next.js"],
+    "tools": ["git", "postman"],
+    "concepts": ["rest api"]
+  },
+  "devops": {
+    "role": "devops engineer",
+    "tools": ["docker", "kubernetes", "jenkins", "terraform", "ansible", "git"],
+    "cloud": ["aws", "azure", "gcp"],
+    "concepts": ["ci/cd", "cloud"]
+  },
+  "data engineering": {
+    "role": "data engineer",
+    "languages": ["python", "sql"],
+    "tools": ["apache spark", "spark", "airflow", "amazon glue", "azure data factory (adf)"],
+    "databases": ["snowflake", "google bigquery", "postgresql", "ms sql"],
+    "cloud": ["aws", "azure", "gcp"]
+  },
+  "qa automation": {
+    "role": "qa engineer",
+    "languages": ["java", "python"],
+    "tools": ["selenium", "postman", "jira", "git"],
+    "concepts": ["automation testing", "regression testing"]
+  }
+}

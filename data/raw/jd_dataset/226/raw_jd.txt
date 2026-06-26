@@ -1,0 +1,4 @@
+{
+  "raw_jd": "react develoepr with nextjs. CSS . ecommerce implementation , CMS integration",
+  "industry": ""
+}

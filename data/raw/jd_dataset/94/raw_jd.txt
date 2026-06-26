@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Firmware Lead Developer with C, C++ Kernel level experience, 10+ years",
+  "industry": "Technology"
+}

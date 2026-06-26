@@ -1,0 +1,4 @@
+{
+  "industry": "Technology",
+  "raw_jd": "React Developer , 5 years experience, Angular Migration to react migration exposure"
+}

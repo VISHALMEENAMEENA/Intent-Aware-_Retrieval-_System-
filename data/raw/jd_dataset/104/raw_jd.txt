@@ -1,0 +1,4 @@
+{
+  "raw_jd": "html css front end developer",
+  "industry": "Technology"
+}

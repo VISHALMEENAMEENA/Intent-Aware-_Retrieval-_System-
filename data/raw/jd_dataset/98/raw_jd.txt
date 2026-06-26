@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Gen AI Senior Architect, Cloud expereince, full stack",
+  "industry": ""
+}

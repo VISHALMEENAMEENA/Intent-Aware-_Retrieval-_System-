@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java J2EE Developer with Frontend experience as well",
+  "industry": ""
+}

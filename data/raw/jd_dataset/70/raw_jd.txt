@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Backend developer with Python, Fast API, SQLAlchemy Postgres . 5+ years\n\n",
+  "industry": ""
+}

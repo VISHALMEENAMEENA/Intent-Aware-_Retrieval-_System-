@@ -1,0 +1,4 @@
+{
+  "raw_jd": "python developer, sdlc, data structures",
+  "industry": "Technology"
+}

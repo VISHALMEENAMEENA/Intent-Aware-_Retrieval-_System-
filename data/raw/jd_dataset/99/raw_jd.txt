@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Gen AI solution architect, with 8+ years and a minimum of 2 years in AL/ML, python",
+  "industry": ""
+}

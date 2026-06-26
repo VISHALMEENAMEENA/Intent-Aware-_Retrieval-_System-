@@ -1,0 +1,4 @@
+{
+  "raw_jd": "JD - ServiceNow Developer - Mid level (General, HRSD, PSM, VA/Portal)\n•\tBachelor’s degree in Computer Science, Engineering, or a related field\n•\t6+ years of experience in ServiceNow development \n•\tProficiency in General, HRSD, PSM, VA/Portal\n•\tProficiency in JavaScript, XML, HTML, and CSS for ServiceNow development\n•\tExperience in ServiceNow platform upgrades and version migrations\n•\tAbility to design and implement ServiceNow integrations with third-party systems using APIs and web services\n•\tKnowledge of ServiceNow CMDB and asset management\n•\tExcellent problem-solving and analytical skills\n•\tStrong communication and stakeholder management skills\n•\tServiceNow Certified Implementation Specialist (CIS) certifications\n",
+  "industry": ""
+}

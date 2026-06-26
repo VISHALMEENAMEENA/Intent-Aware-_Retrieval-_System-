@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1.\tProficiency in Creo Parametric or Catia V5\n2.\tExperience with 3D CAD Solid modeling, Detailing, Assembly and surfacing\n3.\tExperience in Pipe Routing using Creo will be advantage\n4.\tExperience in Product Design of Automotive Systems & Products such as BiW / Interior / Exterior / Powertrain / Chassis & Suspension / HVAC / \n5.\tGood understanding of manufacturing process such as Casting & Machining / Plastic Injection Molding / Sheetmetal Forming / Forging etc.\n6.\tKnowledge of GD&T (Geometric Dimensioning and Tolerancing), Tolerance Stack-up",
+  "industry": ""
+}

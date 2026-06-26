@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Developer, python automation, data science, GenAI application developer",
+  "industry": ""
+}

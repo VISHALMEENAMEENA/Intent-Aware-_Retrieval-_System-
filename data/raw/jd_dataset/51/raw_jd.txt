@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Expertise in Oracle PL/SQL (3-8 Years) | Strong technical skills in Oracle & Unix.\r\n    2. Maintain live production systems and attend production issues real-time by following customer/HCL standards and processes\r\n    3. Involvement in written and oral interfacing with customer.\r\n    4. Work towards continuous improvement initiatives.\r\n    5. Strong hold on ITIL processes (especially Incident Management, Problem Management & Knowledge Management)\r\n    5. Manage project priorities and escalations.\r\n    7. Ability to support user queries with the right spirit and within optimal resolution time\r\n    8. Should be self-sufficient to manage the customer expectations\r\n    10. Should be ready to work in shifts & Weekends - 24x7 Support (As and when required).\r\n    12. Has to pass through customer interview.\r\n    13. Working location should be Pune/Madurai/Bengaluru.",
+  "industry": "Retail"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Azure Data Security Consultant , 10 yeas expereince",
+  "industry": "Technology"
+}

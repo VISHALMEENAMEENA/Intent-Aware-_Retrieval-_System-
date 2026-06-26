@@ -1,0 +1,4 @@
+{
+  "raw_jd": " Java, Python, and HTML Developer",
+  "industry": ""
+}

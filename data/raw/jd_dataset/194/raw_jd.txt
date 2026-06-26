@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Persons having strong programming background and strong Object oriented design experience for development and deployment of complex applications. the persons may have background in C++ / Node JS / Python and should be willing to learn digital skills involving cloud computing, AI",
+  "industry": "Technology"
+}

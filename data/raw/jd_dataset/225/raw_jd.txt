@@ -1,0 +1,4 @@
+{
+  "raw_jd": "QA Engineer Manual testing, Web testing, Backend testing",
+  "industry": ""
+}

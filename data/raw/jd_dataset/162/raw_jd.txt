@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: Project Lead\n        Location: Bengaluru\n        Country: India\n        Experience Required: 5 - 9 years\n        \n        Primary Skills: AngularJS\n        Secondary Skills: N/A\n        \n        Job Description:\n        To manage and ensure that the project schedules are adhered to as per the client specifications and deliveries are as per the time and quality standards.\n        \n        Additional Requirements:\n        E2.2 ANgular JS  - software engg",
+  "industry": "Any Industry"
+}

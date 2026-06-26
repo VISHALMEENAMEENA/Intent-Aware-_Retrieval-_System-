@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java J2EE Senior Developer, 5-7 years",
+  "industry": ""
+}

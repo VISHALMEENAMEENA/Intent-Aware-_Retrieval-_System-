@@ -1,0 +1,4 @@
+{
+  "industry": "Life Sciences and Healthcare",
+  "raw_jd": "AWS Cloud Consultant, experience in deploying serverless architecture , 10+ years"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "react developer , 1-5 years",
+  "industry": ""
+}

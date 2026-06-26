@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Next JS, Vercel AI SDK Developer, 5+ years",
+  "industry": ""
+}

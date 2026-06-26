@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java J2EE Senior Dev, 5-7 years, Spring Boot , Microservices, REST APIs",
+  "industry": ""
+}

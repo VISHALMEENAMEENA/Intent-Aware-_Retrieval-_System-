@@ -1,0 +1,4 @@
+{
+  "industry": "Retail",
+  "raw_jd": "Angular Developer, 5 years experience"
+}

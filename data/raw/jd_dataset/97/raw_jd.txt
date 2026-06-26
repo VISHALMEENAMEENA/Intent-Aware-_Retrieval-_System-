@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Gen AI Developer , 1-5 year",
+  "industry": ""
+}

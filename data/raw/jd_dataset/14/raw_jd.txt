@@ -1,0 +1,4 @@
+{
+  "industry": "Any Industry",
+  "raw_jd": "Job Title: N/A\nLocation: N/A\nCountry: United States\nExperience Required: N/A\n\nPrimary Skills: Microservices,React.js,Java\nSecondary Skills: N/A\n\nJob Description:\nMicroservicesReact.jsJava\n\nAdditional Requirements:\nNone"
+}

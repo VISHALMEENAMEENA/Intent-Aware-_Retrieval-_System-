@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Vue JS Developer, Ecommerce experience, exposure to migration from reactjs to vue, minimum 5 years web dev experience",
+  "industry": "Retail"
+}

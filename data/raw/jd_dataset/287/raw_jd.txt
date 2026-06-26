@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Vue JS Developer, Ecommerce Background, 5 years",
+  "industry": ""
+}

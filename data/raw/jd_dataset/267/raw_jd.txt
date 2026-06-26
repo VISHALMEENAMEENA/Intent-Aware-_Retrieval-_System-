@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React developer with nextjs , tailwind css, exposure to microservices, 2-5 years",
+  "industry": ""
+}

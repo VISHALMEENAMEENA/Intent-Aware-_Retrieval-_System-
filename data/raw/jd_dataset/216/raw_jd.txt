@@ -1,0 +1,4 @@
+{
+  "raw_jd": "python developer, front end flutter, llm, agentic ai, python automation, testing",
+  "industry": "Technology"
+}

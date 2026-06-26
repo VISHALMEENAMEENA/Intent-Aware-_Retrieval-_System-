@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Angular 15 developer , with enterprise integration experience, 5+ years",
+  "industry": ""
+}

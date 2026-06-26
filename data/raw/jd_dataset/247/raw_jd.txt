@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React Developer with NExt js , 3 years +",
+  "industry": ""
+}

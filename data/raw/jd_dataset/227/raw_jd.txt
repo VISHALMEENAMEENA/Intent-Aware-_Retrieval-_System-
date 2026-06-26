@@ -1,0 +1,4 @@
+{
+  "raw_jd": "REact Developer , 1-5 year, ecommerce experience nice to have",
+  "industry": "Retail"
+}

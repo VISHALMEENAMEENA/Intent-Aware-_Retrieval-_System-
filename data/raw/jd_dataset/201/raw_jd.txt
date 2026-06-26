@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Primary Skills\tSoftware Testing\nSecondary Skills\t Accessibility testing(Competent)\nDesignation\tSenior Tester\nExperience\t\nJob Family\tTesting / Validation\nJob\tTechnical Lead\nJobDescription\t\" \nSkills : Appium, API Automation using Rest Assured, Selenium\"",
+  "industry": ""
+}

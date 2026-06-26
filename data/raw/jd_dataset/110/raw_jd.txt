@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java J2EE 2-5 experience",
+  "industry": ""
+}

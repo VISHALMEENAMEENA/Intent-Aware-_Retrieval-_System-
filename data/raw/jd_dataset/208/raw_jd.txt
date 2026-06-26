@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python developer , 3+ years",
+  "industry": ""
+}

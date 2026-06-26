@@ -1,0 +1,4 @@
+{
+  "raw_jd": "AWS Solutions ARchitect, 10 years",
+  "industry": ""
+}

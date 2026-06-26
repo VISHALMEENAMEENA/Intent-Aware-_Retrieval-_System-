@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React developer with Tailwind CSS experience, 1-5 years",
+  "industry": ""
+}

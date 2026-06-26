@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded engineer experience 0-10 ",
+  "industry": ""
+}

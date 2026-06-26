@@ -1,0 +1,4 @@
+{
+  "raw_jd": "people analytics, hypothesis testing, NLP, ONA",
+  "industry": ""
+}

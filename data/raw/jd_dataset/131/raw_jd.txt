@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java J2EE Senior Tech Lead, 5-7 years expereince, Microservices, Spring Boot, Location: Chennai or Noida",
+  "industry": ""
+}

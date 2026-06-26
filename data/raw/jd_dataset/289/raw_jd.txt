@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Web Security expert, 10 years web development experience",
+  "industry": "Retail"
+}

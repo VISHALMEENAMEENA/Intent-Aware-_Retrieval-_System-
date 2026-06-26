@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Persons having extensive experience in building and deploying full stack applications and services at scale and have experience with designing and developing backend services, integration with front end, building or using devops pipeline, design database schema for complex enterprise application which get deployed on hyper scalers. Experience 5-15 years",
+  "industry": "Technology"
+}

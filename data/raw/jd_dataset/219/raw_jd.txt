@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python developer with 3 to 5 years of experience. Knows flask, fast api. Gen AI knowledge is must have",
+  "industry": ""
+}

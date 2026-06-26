@@ -1,0 +1,4 @@
+{
+  "raw_jd": "python developer, flask, django, sql, aws, ci/cd, jenkins, jira, github",
+  "industry": ""
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "python development, backend, django, flask, postgreqsql, azure, llm, crew ai",
+  "industry": ""
+}

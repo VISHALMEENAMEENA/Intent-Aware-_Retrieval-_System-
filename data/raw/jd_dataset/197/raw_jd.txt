@@ -1,0 +1,4 @@
+{
+  "raw_jd": "<p>HELLO</p>\n                <style>*{x:expression(alert(1))}</style>\n                123456\n                <br>goodbye<p></p><h1>not me!</h1>",
+  "industry": ""
+}

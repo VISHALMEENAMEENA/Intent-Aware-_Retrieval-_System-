@@ -1,0 +1,1082 @@
+id,state,city,country,job_title,primary_skills,secondary_skills,experience_lower,experience_upper,designation
+DBS-__DBS-__2025__2591399,,Bengaluru,India,,Selenium,"Azure,Azure API Management,Java,",0,0,Test Manager
+DBS-__DBS-__2025__2641900,,Pune,India,,ServiceNow ITBM,"ServiceNow Technical,",0,0,Senior Technical Lead
+DBS-__DBS-__2025__2660265,,Chennai,India,,Full Stack - Java,"DevOps,React.js,",0,0,Senior Technical Lead
+DFS__DFS__2024__1111111,,Virginia,USA,,"React,NextJS,TailwindCSS",,0,0,Tech Lead
+3153,,Buenos Aires,Argentina,,"SQL,Python,Amazon Glue",,0,0,Argentina FTE
+4435,,,Malaysia,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",Talend MDM,0,0,Azure Data Lead
+4570,,Jakarta,Indonesia,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+3733,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",AWS PaaS,0,0,AWS Data Lead
+3080,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",AWS PaaS,0,0,AWS Data Lead
+5268,,Noida,India,,"SQL,Azure Data Factory (ADF)",,0,0,Azure Data Engineer
+4752,,,Spain,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Architect with Angular
+3678,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Developer with React, Full Stack - Java, Angular"
+4577,,,Japan,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4542,,,Malaysia,,"SQL,Google Dataflow,Google BigQuery",AWS PaaS,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4657,,,Israel,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Senior Architect with Angular
+3898,,Noida,India,,"SQL,Azure Data Factory (ADF)","AWS PaaS,SAFe- Agile SW Engineering (ASE)",0,0,Azure Data Engineer
+3670,,,United States,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer
+3549,,,Hungary,,"SQL,Google Dataflow,Google BigQuery",Agile-Scrum (Digital),0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3665,,,Japan,,"SQL,Google Dataflow,Google BigQuery",Talend MDM,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3538,,,India,,"Selenium,Python",,0,0,"Automation Tester with python,selenium"
+3508,,Noida,India,,"Springboot,DevOps Solutions,Java",AWS PaaS,0,0,Full Stack Java Senior Technical Lead with  DevOps
+3618,,Noida,India,,"Springboot,DevOps Solutions,Java",AWS PaaS,0,0,Full Stack Java Senior Technical Lead with  DevOps
+3513,,,Italy,,"SQL,Google Dataflow,Google BigQuery",Talend MDM,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4132,,Noida,India,,"Full Stack - Java,DevOps Solutions,React.js",,0,0,Full Stack Java Senior Architect with Angular
+4136,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4094,,Noida,India,,"SQL,DevOps Solutions,Python,Amazon Glue",Agile-Scrum (Digital),0,0,AWS Senior Data Engineer
+4248,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",,0,0,AWS Data Lead
+4067,,Noida,India,,"Full Stack - .NET,Angular,ASP.Net MVC",DevOps-API_TeamCity,0,0,Microsoft Full Stack Architect with Angular
+4043,,Noida,India,,"Angular,Springboot,Java",AWS PaaS,0,0,Full Stack Java Senior Architect with Angular
+4389,,,United Kingdom,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",DevOps-API_Apache Ant,0,0,AWS Senior Data Lead
+4027,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4225,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4381,,Noida,India,,"HTML/CSS,Web Development_Javascript,AEM",IBM MDM,0,0,"AEM Senior Developer with Javascript, html/css"
+4157,,Noida,India,,"Spring MVC,HTML,Java",,0,0,"Developer Java, Spring MVC, HTML"
+4004,,Noida,India,,"SQL,DevOps Solutions,Python,Amazon Glue","SQL Server Analysis Services (SSAS),SQL Server",0,0,AWS Senior Data Engineer
+4440,,,United Kingdom,,"SQL,Informatica",DevOps-API_TeamCity,0,0,Informatica Developer
+4011,,Noida,India,,"SQL,Azure Data Factory (ADF)","DevOps-API_TeamCity,Agile-Scrum (Digital),Intellect - GCB",0,0,Azure Data Engineer
+4483,,Neuquen,Argentina,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4606,,,Egypt,,"Full Stack - Java,React,Angular",,0,0,"Developer with React, Full Stack - Java, Angular"
+4716,,,Lithuania,,"SQL,Python,Amazon Glue",Talend MDM,0,0,AWS Data Engineer
+4678,,,Oman,,Terraform,SAFe- Lean Portfolio Mgt (LPM),0,0,Senior Program Director
+4809,,,New Zealand,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",Talend MDM,0,0,Azure Data Lead
+4930,,Noida,India,,SAFe- Agile SW Engineering (ASE),,0,0,Program Manager
+4560,,,Chile,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4917,,,Germany,,"SQL,Python,Amazon Glue",DevOps-API_Apache Ant,0,0,AWS Data Engineer
+3013,,Noida,India,,"SQL,Azure Data Factory (ADF)",Agile-Scrum (Digital),0,0,Azure Data Engineer
+4974,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",Terraform,0,0,AWS Senior Data Lead
+5102,,Noida,India,,Terraform,,0,0,Senior Technical Manager
+3263,,,Canada,,"Full Stack - Java,DevOps Solutions,React.js",Talend MDM,0,0,"Full Stack Java Technical Lead with DevOps, React"
+5041,,Noida,India,,"React,Angular,Java",,0,0,"Senior Technical Lead with react,angular,java"
+4949,,Noida,India,,"spring boot,REST,Java",,0,0,"Senior Developer with Spring boot, REST, Java"
+4993,,Noida,India,,"Unix Shell Scripting,PL/SQL,Informatica",,0,0,"Senior Developer with Unix Shell Scripting, Informatica, PL/SQL"
+5129,,Noida,India,,"Springboot,DevOps Solutions,Java",,0,0,Full Stack Java Senior Technical Lead with  DevOps
+5123,,Noida,India,,"React,Angular,Java",,0,0,"Senior Developer with react,angular,java"
+5127,,,India,,AWS PaaS,Agile-Scrum (Digital),0,0,PMO Associate
+4261,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4438,,,Spain,,"SQL,Azure Data Factory (ADF)",Agile-Scrum (Digital),0,0,Azure Data Engineer
+5418,,Noida,India,,"C#,ASP.Net,.Net","5G Core Architecture and Interfaces,Azure Private 5G Core",0,0,"Senior Developer with .net,asp.net,c#"
+4328,,,United States,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer - USA
+3285,,Taguig,Philippines,,"React,Javascript,Java",,0,0,"Developer with javascript,react,java Philippines"
+3304,,Dubai,United Arab Emirates,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm United Arab Emirates"
+3546,,,Korea (the Republic of),,"React,Javascript,CSS",,0,0,"Developer with javascript,react,css South Korea"
+4452,,,Chile,,"SQL,DevOps Solutions,Python,Amazon Glue",SAFe- Agile SW Engineering (ASE),0,0,AWS Senior Data Engineer
+5410,,Noida,India,,"C++,Python,Java",,0,0,"Developer with python,c++,java"
+5233,,Noida,India,,"React,Angular,Java",,0,0,"Developer with react,angular,java"
+4295,,,United States,,"SQL,Informatica MDM,Oracle PL/SQL,Python",MySQL,0,0,Informatica MDM Lead
+3777,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",AWS PaaS,0,0,AWS Senior Data Lead
+5387,,,Singapore,,"C++,Python,Java",,0,0,"Developer with python,c++,java"
+3221,,,United States,,"React,Javascript,CSS",,0,0,GEO Testing USA - SAN
+4149,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",DevOps-API_Apache Ant,0,0,AWS Data Lead
+3729,,Noida,India,,"Full Stack - Java,DevOps Solutions,React.js",Javascript,0,0,"Full Stack Java Technical Lead with DevOps, React"
+4020,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+5234,,Noida,India,,"C#,C++,Python",,0,0,"Senior Developer with c#,python,c++"
+3117,,,Austria,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer for Austria
+3238,,,Costa Rica,,"React,Javascript,Java",,0,0,"Developer with javascript,react,java Costa Rica"
+3280,,,Lithuania,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm Lithuania"
+4415,,,China,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",AWS PaaS,0,0,Azure Data Lead
+DFS__APME__2024__2476455,,Noida,India,,SAP,,0,0,SENIOR SPECIALIST
+4525,,Jakarta,Indonesia,,"Angular,Springboot,Java",Agile-Scrum (Digital),0,0,Full Stack Java Senior Architect with Angular
+3259,,,Hong Kong,,"React,Javascript,CSS",,0,0,"Developer with javascript,react,css Hong Kong"
+1956,,,Portugal,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+5201,,Dubai,United Arab Emirates,,"JavaScript,React.js,Java",,0,0,"Developer JavaScript,React.js,java"
+5204,,,United States,,"iOS,Android,Java",,0,0,"Developer ios,android,java"
+2335,,,Russian Federation,,"Devops,Full stack - java,Spring Boot",,0,0,Full Stack Java Tech Architect (DevOps)
+1943,,,Sweden,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+2383,,,Estonia,,"Microservices,Vue JS,Java",Functional Automation,0,0,"Developer Java, Microservices, VueJS"
+1869,,,Estonia,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+1871,,,Türkiye,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+2208,,,United Kingdom,,"Microservices,React.js,Java",,0,0,"Developer Java, Microservices,React.js"
+5357,,,India,,"Microservices,Vue JS,Java",,0,0,Senior ERP Specialist
+5849,,,India,,"iOS,Android,Java",,0,0,Senior Software Engineer
+5786,,,Costa Rica,,HP UX,,0,0,Trainee
+5869,,,Ireland,,HP UX,,0,0,Associate
+5845,,,Panama,,HP UX,,0,0,Manager
+5272,,,Japan,,"JavaScript,React.js,Java",,0,0,Senior ERP Specialist
+5747,,,United States,,HP UX,,0,0,Associate
+5803,,,Chile,,HP UX,,0,0,Sr. Management Consultant I
+5805,,,Panama,,HP UX,,0,0,Sr. Management Consultant I
+5693,,,United States,,"Microservices,Vue JS,Java",,0,0,ERP Specialist
+5791,,Buenos Aires,Argentina,,HP UX,,0,0,Analyst
+5765,,,Mexico,,Functional Automation,,0,0,Regional  Sales Director
+5795,,,Colombia,,HP UX,,0,0,Business Development Manager
+5547,,Jakarta,Indonesia,,"Microservices,React.js,Java",,0,0,Senior Technical Lead
+5444,,,South Africa,,"Microservices,React.js,Java",,0,0,Senior ERP Specialist
+5296,,,India,,"Functional Automation,Generative Models",,0,0,Analyst
+5826,,,India,,,,0,0,Software Engineer
+5724,,,India,,"Microservices,React.js,Java",,0,0,Lead Consultant
+5725,,,India,,"Microservices,React.js,Java",,0,0,Lead Consultant
+5672,,,Germany,,"C#,Angular,.NET",,0,0,Senior Technical Lead
+5160,,,India,,HP UX,,0,0,Chief Architect
+5739,,,Romania,,"Microservices,Vue JS,Java",,0,0,Analyst
+5423,,,India,,"HTML,Java,Spring MVC",,0,0,Technical Specialist
+5337,,,Oman,,"JavaScript,React.js,Java",,0,0,Senior ERP Specialist
+5375,,,Poland,,"Microservices,Vue JS,Java",,0,0,Analyst
+5685,,,India,,"iOS,Android,Java",,0,0,Analyst
+5683,,,India,,"HTML,JavaScript,React.js",,0,0,Senior Project Lead
+31983,,,India,,SAP ABAP on HANA,,0,0,
+DEMO__5747,,,United States,,HP UX,,0,0,Analyst
+9004,,,India,,Organizational Change Management (OCM),,0,0,
+48666,,HFNOI,India,"Developer - Java, Microservices, React.js","React.js,Microservices,Java",,0,0,Software Developer
+28388,,Bengaluru,India,,"Wire Harnesses,3D Routing,Electrical Schematics Design,Electro-Mechanical Packaging,Power Distribution (PD),Electrical Cabling",,0,0,
+60629,,Manila,Philippines,,"Microsoft Windows,ARABIC,English",,0,0,Senior Analyst
+56960,,Pune,India,,SAP Security GRC Administration,ServiceNow GRC,0,0,Lead Consultant
+71198,,Chennai,India,,"Software Testing,Functional Testing,Selenium",,0,0,Senior Test Engineer
+68416,,Noida,India,,"Information System Security/Firewalls,SOX IT General Controls,SAP Security GRC Administration",,0,0,Senior Technical Lead
+77591,,Mumbai,India,,"Microsoft Windows,English,German",,0,0,Senior Analyst
+18367,,Bengaluru,India,,"Spring Boot,Java,RESTful API",,0,0,
+29955,,Chennai,India,,"React.js,Node.js,JavaScript",,0,0,
+78098,,COLOMBO,Sri Lanka,,Microsoft 365 Administration,,0,0,Analyst
+56647,,Chennai,India,,"CA Service Desk Manager,BMC Remedy Action Request System,ServiceNow,Knowledge Management",,0,0,Associate
+77536,,Lucknow,India,,"Microsoft Windows,ARABIC,English",,0,0,Analyst
+74602,,Southampton,United Kingdom,,"Cisco Switch,IBM FlashSystem Storage",,0,0,Senior Project Manager
+63440,,Chennai,India,,"Salesforce Lightning,Salesforce Apex","Salesforce Marketing Cloud Personalization,Salesforce Design/Configuration/Customization,SQL Proficiency",0,0,Technical Lead
+77907,,Bengaluru,India,,"Access/Rights Management Tool - Others,Microsoft Windows",,0,0,Senior Analyst
+78097,,Noida,India,,"Desk Side Services,Windows PC,AMT Asset Management Software",,0,0,Senior Analyst
+7766193,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+776618,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+DEMO__Java__03,,Noida,India,,"Java,J2EE,SpringBoot",,0,0,Technical Architect
+4589,,,Angola,,"Full Stack - Java,React,Angular",,0,0,"Developer with React, Full Stack - Java, Angular"
+4354,,Noida,India,,"Cucumber,Selenium,Java",,0,0,"Automation Tester with cucumber,selenium,java"
+5028,,Noida,India,,"React,Angular,Java",,0,0,"Developer with react,angular,java"
+5003,,Noida,India,,"C#,C++,Python",Agile-Scrum (Digital),0,0,"Senior Technical Lead with c#,python,c++"
+2877,,Noida,India,,"SQL,Python,Amazon Glue","Agile-Scrum (Digital),IBM MDM",0,0,AWS Data Engineer
+1383,,Noida,India,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer
+5046,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Senior Technical Lead with React, Full Stack - Java, Angular"
+4871,,,United States,,"SQL,Python,Amazon Glue",Talend MDM,0,0,AWS Data Engineer
+4673,,,Korea (the Republic of),,Terraform,SAFe- Agile SW Engineering (ASE),0,0,Analyst - Voice
+4668,,Manila,Philippines,,Terraform,IBM MDM,0,0,Analyst - Voice
+4689,,,Korea (the Republic of),,Quest,Agile-Scrum (Digital),0,0,Senior Program Director
+3688,,Noida,India,,"Springboot,DevOps Solutions,Java",AWS PaaS,0,0,Full Stack Java Senior Technical Lead with  DevOps
+4622,,Dubai,United Arab Emirates,,,,0,0,Senior Program Director
+4705,,,Singapore,,"SQL,Google Dataflow,Google BigQuery",Terraform,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4677,,,Oman,,"Kotlin,Java",AWS PaaS,0,0,Kotlin Senior Developer with Java
+3571,,Noida,India,,"DevOps Solutions,AWS Architecture,Java",,0,0,"Java Technical Lead with DevOps Solutions,AWS Architecture"
+3560,,,Sweden,,"SQL,Google Dataflow,Google BigQuery",Talend MDM,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3548,,,Hungary,,"SQL,Google Dataflow,Google BigQuery",,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3900,,Noida,India,,"CAD Design Skills,Javascript,Jquery",,0,0,"Design Lead with javascript,CAD Design Skills,Jquery"
+3507,,Noida,India,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python","Agile-Scrum (Digital),SIT_JAVA,C++ programming,DevOps-API_Apache Ant",0,0,Azure Data Lead
+3942,,Noida,India,,"SQL,Informatica MDM,Oracle PL/SQL,Python",AWS PaaS,0,0,Informatica MDM Lead
+3984,,Noida,India,,"Full Stack - Java,DevOps Solutions,React.js",Terraform,0,0,"Full Stack Java Technical Lead with DevOps, React"
+3930,,Noida,India,,"C,Autosar,Canoe",,0,0,"Senior Technical Lead with autosar,canoe,c"
+3917,,Noida,India,,"SQL,Azure Data Factory (ADF)","Full Stack - Java,C++ programming",0,0,Azure Data Engineer
+4305,,,Luxembourg,,"SQL,Informatica MDM,Oracle PL/SQL,Python",MySQL,0,0,Informatica MDM Lead
+4301,,,France,,"SQL,Unix Shell Scripting,IBM Infosphere Datastage Suite",Agile-Scrum (Digital),0,0,Datastage Senior Engineer
+4200,,,United States,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer
+4063,,Noida,India,,"Full Stack - .NET,Angular,ASP.Net MVC",DevOps-API_TeamCity,0,0,Microsoft Full Stack Architect with Angular
+4190,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4058,,Noida,India,,"React,Javascript",,0,0,FTE INDIA
+4000,,Noida,India,,"Full Stack - Java,DevOps Solutions,React.js",,0,0,"Full Stack Java Technical Lead with DevOps, React"
+4660,,,Czech Republic,,,,0,0,Senior Program Manager
+4359,,Noida,India,,"AWS PaaS,Terraform",,0,0,Senior Program Director
+4663,,,Estonia,,,,0,0,Senior Program Director
+4450,,Buenos Aires,Argentina,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",,0,0,AWS Senior Data Lead
+4544,,,Canada,,IBM MDM,Kofax Total Agility,0,0,Analyst - Voice
+4626,,,Belgium,,,,0,0,Senior Program Director
+4635,,,Switzerland,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Senior Architect with Angular
+4815,,,Germany,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",,0,0,Azure Data Lead
+5016,,Noida,India,,"C#,C++,Python",,0,0,"Technical lead with c#,python,c++"
+4772,,,Israel,,IBM MDM,DevOps-API_TeamCity,0,0,Analyst - Voice
+5054,,Noida,India,,"SQL,Unix Shell Scripting,Oracle PL/SQL,IBM Infosphere Datastage Suite",,0,0,Datastage Technical Lead
+5080,,Noida,India,,"SQL,Azure Data Factory (ADF)",,0,0,Azure Data Engineer
+5007,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+5223,,Noida,India,,"Unix Shell Scripting,PL/SQL,Informatica",,0,0,"Developer with Unix Shell Scripting, Informatica, PL/SQL"
+4976,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Developer with React, Full Stack - Java, Angular"
+5222,,Noida,India,,"C++,Python,Java",,0,0,"Senior Developer with python,c++,java"
+5019,,Noida,India,,"React,Angular,Java",Quest,0,0,"Developer with react,angular,java"
+4827,,,United Kingdom,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",DevOps-API_TeamCity,0,0,Azure Data Lead
+5094,,Noida,India,,AWS PaaS,,0,0,PMO Associate
+5093,,,India,,AWS PaaS,Agile-Scrum (Digital),0,0,PMO Associate
+5415,,,India,,"DevOps Solutions,AWS Architecture,Java",,0,0,"Java Senior Developer with DevOps Solutions,AWS Architecture"
+5411,,,United Kingdom,,"C++,Python,Java",,0,0,"Developer with python,c++,java"
+5400,,Noida,India,,"C++,Python,Java",,0,0,"Developer with python,c++,java"
+5402,,,United States,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",AWS PaaS,0,0,Azure Data Lead US TP
+1450,,Mumbai,India,,"Full Stack - Java,React,Angular",,0,0,"Developer with React, Full Stack - Java, Angular"
+5388,,,Malaysia,,"Kotlin,Java",,0,0,Kotlin Senior Developer with Java
+5118,,Noida,India,,"C#,C++,Python",,0,0,"Senior Developer with c#,python,c++"
+5284,,Noida,India,,"Spring MVC,HTML,Java",DevOps-API_TeamCity,0,0,"Technical lead with Java, Spring MVC, HTML"
+4913,,,United States,,"SQL,IBM Infosphere Datastage Suite",SAFe- Agile SW Engineering (ASE),0,0,Datastage Engineer
+4837,,,Australia,,"React,Javascript,CSS",,0,0,GEO Testing USA - SAN 1
+5273,,,India,,"ASP.Net,.Net,SQL Server","DevOps-API_TeamCity,Greenplum",0,0,Microsoft C# Technical Lead
+4632,,,Australia,,"Kotlin,Java",AWS PaaS,0,0,Kotlin Senior Developer with Java
+3323,,,Slovakia,,"CAD Design Skills,Javascript,Jquery",,0,0,"Designer with javascript,CAD Design Skills,Jquery Slovakia"
+DFS__DFS__2025__2660292,,Hyderabad,India,,SAP,,0,0,ASSOCIATE CONSULTANT
+4437,,,Canada,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",AWS PaaS,0,0,Azure Data Lead
+4007,,Noida,India,,"SQL,Azure Data Factory (ADF)","DevOps-API_TeamCity,Agile-Scrum (Digital),Intellect - GCB",0,0,Azure Data Engineer
+5390,,,France,,"Kotlin,Java",,0,0,Kotlin Senior Developer with Java
+5205,,,United Kingdom,,"Microservices,Vue JS,Java",,0,0,"Developer Java, Microservices, VueJS"
+1419,,,India,,"Oracle PL/SQL,Obsolete - Python,Java",,0,0,"Developer python,PL/SQL,java"
+4852,,,Singapore,,"Docker,Spring Boot,Amazon Web Services (AWS),Java",,0,0,Tech Lead Java Spring Boot AWS Docker
+4863,,,India,,"Microservices,Vue JS,Java",,0,0,Sr Tech Speclst Java Microservices VueJS
+2142,,,United Kingdom,,"Microservices,Vue JS,Java",Gear Design,0,0,"Developer Java, Microservices, VueJS"
+2393,,,Japan,,"Microservices,Vue JS,Java",Functional Automation,0,0,"Developer Java, Microservices, VueJS"
+1876,,,Finland,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+3978,,,United States,,"Microservices,React.js,Java",,0,0,"Developer Java, Microservices,React.js"
+1409,,,India,,"Devops,AWS GLUE,Snowflake,Obsolete - Python,ANSI SQL",,0,0,AWS Data Sr. Tech. Spec.
+5259,,,Lithuania,,"Customer Focus,Data Analytics And Business Intelligence,Billing/Invoicing,Accounting/Month End Activities",,0,0,Associate
+5838,,,Chile,,HP UX,,0,0,Senior Support Manager
+5758,,,Mexico,,HP UX,,0,0,Sr. Management Consultant I
+5793,,,Guatemala,,HP UX,,0,0,Senior Process Trainer
+5794,,,Guatemala,,Functional Automation,,0,0,Senior Account Manager
+5277,,,United Kingdom,,"Voice and Accent,Learning Agility",,0,0,Process Associate
+5347,,,Brazil,,"JavaScript,React.js,Java",,0,0,Senior ERP Specialist
+5753,,,United States,,HP UX,,0,0,Contract retainer
+5764,,,United States,,HP UX,,0,0,Account Manager
+5745,,,United States,,HP UX,,0,0,Analyst
+5777,,,Bulgaria,,HP UX,,0,0,Contract retainer
+5788,,,Morocco,,India Taxation,,0,0,Associate
+5781,,,Costa Rica,,HP UX,,0,0,Associate
+5774,,,India,,"Mongo DB,Spring Boot,Java",,0,0,Lead Consultant
+5642,,,Bulgaria,,Gear Design,,0,0,Contract retainer
+5530,,,Denmark,,Gear Design,,0,0,Enterprise Architect II
+5776,,,Bulgaria,,HP UX,,0,0,Contract retainer
+5209,,,India,,"iOS,Android,Java",,0,0,Analyst
+5630,,,Singapore,,HP UX,,0,0,Enterprise Architect II
+5719,,,Saudi Arabia,,"Microservices,React.js,Java",,0,0,Lead Consultant
+5313,,,India,,"Oracle PL/SQL,Obsolete - Python,Java",,0,0,Associate
+5391,,,India,,"C#,Azure DevOps,.NET",,0,0,Senior Development Lead
+5735,,,United States,,"C#,Angular,.NET",,0,0,Senior Software Developer
+5496,,,Norway,,"iOS,Android,Java",,0,0,Analyst
+5498,,,Romania,,"iOS,Android,Java",,0,0,Analyst
+5604,,,Spain,,"Microservices,Vue JS,Java",,0,0,Senior ERP Specialist
+55926,,Madurai,India,"Senior Apache Spark Technical Lead - Scala, Python","Python,Apache Spark,Scala",,0,0,Senior Technical Lead
+5369,,,Costa Rica,,"Microservices,Vue JS,Java",,0,0,Analyst
+55987,,Madurai,India,Workday Technical Consultant - EIB,"Workday (Technical) - Workday Studio,Workday Enterprise Interface Builder (EIB)",,0,0,Senior Software Developer
+67362,,Bengaluru,India,,Azure API Management,,0,0,Senior Technical Lead
+59206,,Bengaluru,India,,"Python,Embedded Device",,0,0,Senior Test Engineer
+28504,,Chennai,India,,"ERP Data Management,Supplier Quality Management",,0,0,
+69833,,Noida,India,,English,,0,0,Analyst
+64348,,Nagpur,India,,Accounts Receivable,,0,0,Associate
+77433,,Chennai,India,,Cisco Contact Center,,0,0,Senior Specialist
+54490,,Noida,India,,Ivanti Shavlik,,0,0,Senior Specialist
+59769,,Bengaluru,India,,"Power Platform - Power Automate (Online),Power Platform - Power Apps,Microsoft Power Platform","React.js,Github,Power Platform - Power Automate Desktop (RPA)",0,0,Lead Consultant
+77110,,Bengaluru,India,,"Business Development,PLM-Business Process Planning",,0,0,Director
+77649,,Pune,India,,"Microsoft Windows,ARABIC,English",,0,0,Analyst
+77743,,Trivandrum,India,,Service Desk,,0,0,Senior Analyst
+78104,,Cairo,Egypt,,"AMT Asset Management Software,Desk Side Services,Hardware Asset Management,MAC Hardware Mgmt,Hardware Mgmt - Printers,Windows PC",,0,0,Senior Specialist
+77825,,Bengaluru,India,,"Python,Azure Databricks,Azure Data Factory (ADF),MS SQL",Gen AI,0,0,Senior Technical Specialist
+39148,,Noida,India,,Program Management,,0,0,
+7766197,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+ERS__ERS__2025__2627692,,Shanghai,China,,ENOVIA 3D Live,"TCL,",0,0,LEAD
+DBS-__DBS-__2025__2643666,,Texas,USA,,PaaS - Oracle Integration Cloud,"Oracle Procurement Cloud,",0,0,Senior Technical Lead
+DBS-__DBS-__2025__2617895,,Bengaluru,India,,Azure - DevOps,"CI/CD,PowerShell,Ansible,GIT,",0,0,LEAD
+ERS__ERS__2025__SDWAN02,,Bengaluru,India,,"SolarWinds,BGP,OSPF",,0,0,SDWAN Network Engineer
+ERS__ERS__2025__SDWAN01,,Bengaluru,India,,"SolarWinds,BGP,OSPF",,0,0,SDWAN Network Engineer
+5283,,,Brazil,,"SQL,DevOps Solutions,Python,Amazon Glue",,0,0,AWS Senior Data Engineer
+4780,,Manila,Philippines,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4756,,,Sweden,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Architect with Angular
+3394,,,Germany,,"Full Stack - Java,DevOps Solutions,React.js",AWS PaaS,0,0,"Full Stack Java Technical Lead with DevOps, React"
+4496,,,Ireland,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Architect with Angular
+5026,,Noida,India,,"React,Angular,Java",,0,0,"Developer with React, angular, java"
+4680,,,Sri Lanka,,"Kotlin,Java",AWS PaaS,0,0,Kotlin Senior Developer with Java
+3574,,Noida,India,,"SQL,Google Dataflow,Google BigQuery,Python",AWS PaaS,0,0,"Functional lead- Oracle EBS Supply Chain Functional- OM, Inv, PO"
+3697,,,India,,"Selenium,Python",,0,0,"Automation Tester with python,selenium"
+3585,,Noida,India,,"Springboot,DevOps Solutions,Java",,0,0,Full Stack Java Senior Technical Lead with  DevOps
+4712,,Taguig,Philippines,,"SQL,Google Dataflow,Google BigQuery",DevOps-API_TeamCity,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3716,,Noida,India,,"Angular,Springboot,Java",AWS PaaS,0,0,Full Stack Java Senior Architect with Angular
+3912,,Noida,India,,"SQL,Azure Data Factory (ADF)","Full Stack - Java,C++ programming",0,0,Azure Data Engineer
+3555,,Noida,India,,"SQL Server Reporting (SSRS),Microsoft SSIS,SQL Server",AWS PaaS,0,0,Scrum Specialist with business analysis
+3909,,,India,,"Springboot,DevOps Solutions,Java",,0,0,Full Stack Java Senior Technical Lead with  DevOps
+3709,,,United States,,"SQL,Google Dataflow,Google BigQuery",,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3502,,,France,,"SQL,Google Dataflow,Google BigQuery",Talend MDM,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3503,,,France,,"SQL,Google Dataflow,Google BigQuery",Acquia,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3706,,Noida,India,,"spring boot,REST,Java",,0,0,"Developer with Spring boot, REST, Java"
+3980,,,United States,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer
+4121,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4216,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4065,,Noida,India,,"Full Stack - .NET,Angular,ASP.Net MVC",DevOps-API_TeamCity,0,0,Microsoft Full Stack Architect with Angular
+4111,,Noida,India,,"SQL,Azure Data Factory (ADF)","DevOps-API_Apache Ant,DevOps-API_TeamCity",0,0,Azure Data Engineer
+4103,,Noida,India,,"SQL,Azure Data Factory (ADF)","DevOps-API_Apache Ant,DevOps-API_TeamCity",0,0,Azure Data Engineer
+4426,,,Thailand,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",AWS PaaS,0,0,AWS Senior Data Lead
+4386,,Noida,India,,"HTML/CSS,Web Development_Javascript,AEM",IBM MDM,0,0,"AEM Senior Developer with Javascript, html/css"
+4339,,Noida,India,,"SQL,IBM Infosphere Datastage Suite",SAFe- Agile SW Engineering (ASE),0,0,Datastage Engineer
+4537,,,Peru,,"SQL,Google Dataflow,Google BigQuery",AWS PaaS,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4904,,Noida,India,,"React,Angular,Java",Digital - Analytics_Splunk,0,0,"Developer with react,angular,java"
+4910,,,United States,,"SQL,IBM Infosphere Datastage Suite",SAFe- Agile SW Engineering (ASE),0,0,Datastage Engineer
+4566,,,Panama,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4775,,,Sri Lanka,,"Angular,Springboot,Java",Agile-Scrum (Digital),0,0,Full Stack Java Senior Architect with Angular
+5031,,Noida,India,,"MySQL,ASP.Net,MVC,.Net",,0,0,"Technical Lead with .Net, MySQL, ASP.Net, MVC"
+5077,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Senior Developer with React, Full Stack - Java, Angular"
+5040,,Noida,India,,"React,Angular,Java",,0,0,"Senior Developer with react,angular,java"
+4750,,,Romania,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Architect with Angular
+5140,,Noida,India,,Bus. Process-Healthcare,,0,0,Business Specialist with Bus. Process-Healthcare
+4444,,,Australia,,"SQL,Azure Data Factory (ADF)",IBM MDM,0,0,Azure Data Engineer
+5242,,Noida,India,,"C++,Python,Java",,0,0,"Developer with python,c++,java"
+5126,,,India,,"React,Angular,Java",Agile-Scrum (Digital),0,0,"Developer with react,angular,java"
+3294,,,Colombia,,"Full Stack - Java,DevOps Solutions,React.js",Talend MDM,0,0,"Full Stack Java Technical Lead with DevOps, React"
+3135,,,Norway,,"Selenium,Agile methodology",,0,0,Automation Tester with Selenium Norway
+4491,,,Hungary,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Architect with Angular
+5090,,Noida,India,,"React,Angular,Java",Finacle,0,0,"Developer with react,angular,java"
+3541,,,United Kingdom,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",IBM MDM,0,0,Azure Data Lead
+3722,,Noida,India,,"SQL,Azure Data Factory (ADF)",SAFe- Agile SW Engineering (ASE),0,0,Azure Data Engineer
+3255,,Jakarta,Indonesia,,"CAD Design Skills,Javascript,Jquery",,0,0,"Designer with javascript,CAD Design Skills,Jquery Indonesia"
+4776,,,United States,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+3344,,Noida,India,,"SQL,Python,Amazon Glue","IBM MDM,Agile-Scrum (Digital)",0,0,AWS Data Engineer
+1327,,Noida,India,,"SQL,Azure Data Factory (ADF)",,0,0,Azure Data Engineer
+5399,,Noida,India,,"Agile methodology,Program Management",DevOps-API_TeamCity,0,0,Senior Program Manager with Agile
+3256,,,Germany,,"React,Javascript,CSS",,0,0,"Developer with javascript,react,css Germany"
+3203,,Noida,India,,"Angular,Springboot,Java",AWS PaaS,0,0,Full Stack Java Senior Architect with Angular
+4587,,,Viet Nam,,"Angular,Springboot,Java",,0,0,Full Stack Java Senior Architect with Angular
+5348,,,Canada,,"C++,Python,Java",,0,0,"Senior Developer with python,c++,java"
+4623,,,Viet Nam,,,,0,0,Senior Program Director
+5334,,,Denmark,,"Springboot,DevOps Solutions,Java",AWS PaaS,0,0,Full Stack Java Senior Technical Lead with  DevOps
+4495,,,Ireland,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Senior Architect with Angular
+3307,,,Viet Nam,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm Vietnam"
+4659,,,Australia,,,,0,0,Senior Program Director
+3336,,,Bulgaria,,"Full Stack - Java,DevOps Solutions,React.js",IBM MDM,0,0,"Full Stack Java Technical Lead with DevOps, React"
+4527,,,Japan,,"Angular,Springboot,Java",Agile-Scrum (Digital),0,0,Full Stack Java Senior Architect with Angular
+4691,,,Singapore,,"Kotlin,Java",AWS PaaS,0,0,Kotlin Senior Developer with Java
+1778,,,India,,"C#,Angular,.NET",C++,0,0,"Senior Developer .net,c#,angular"
+5174,,,United Kingdom,,HP UX,,0,0,Senior Process Associate
+1575,,,India,,HP UX,IBM Rhapsody,0,0,CS - Presales Head
+2048,,,Czech Republic,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+1399,,,India,,"Mongo DB,Hibernate,Spring Framework,Java",Functional Automation,0,0,"Tech Lead Java, Spring, Hibernate"
+3924,,,Australia,,"RESTful API,Angular JS,JavaScript,ServiceNow",,0,0,"Engineer-SNOWAdmin/Supp,JavaScript"
+2104,,,Poland,,"Microservices,React.js,Java",,0,0,"Developer Java, Microservices,React.js"
+5261,,,Hungary,,"Customer Focus,Data Analytics And Business Intelligence,Billing/Invoicing,Accounting/Month End Activities",,0,0,Associate
+5864,,,Portugal,,HP UX,,0,0,Associate
+5817,,,Panama,,Functional Automation,,0,0,Senior Manager
+5837,,Buenos Aires,Argentina,,HP UX,,0,0,Senior Support Manager
+5839,,,Guatemala,,HP UX,,0,0,Senior Support Manager
+5847,,,Mexico,,HP UX,,0,0,Senior Process Trainer
+5844,,,Mexico,,HP UX,,0,0,Manager
+5729,,,Japan,,"Microservices,Node.js,Amazon Web Services (AWS),Java",,0,0,Associate
+5536,,,Viet Nam,,"Microservices,React.js,Java",,0,0,Senior Technical Lead
+5518,,,United States,,"iOS,Android,Java",,0,0,Analyst
+5804,,,Costa Rica,,HP UX,,0,0,Sr. Management Consultant I
+5713,,Dubai,United Arab Emirates,,"Microservices,Node.js,Amazon Web Services (AWS),Java",,0,0,Associate
+5785,,,India,,"C#,Angular,.NET",,0,0,Software Developer
+5568,,,India,,"Oracle Java Cloud Service,IBM Rhapsody",,0,0,Scholar
+5657,,,Sri Lanka,,Gear Design,,0,0,Contract retainer
+4054,,,Saudi Arabia,,"RESTful API,Angular JS,JavaScript,ServiceNow",,0,0,Analyst
+5538,,,China,,"Microservices,React.js,Java",,0,0,Senior Technical Lead
+5483,,,Czech Republic,,"iOS,Android,Java",,0,0,Analyst
+5479,,,Denmark,,"iOS,Android,Java",,0,0,Analyst
+5773,,,India,,Functional Automation,,0,0,Senior Manager
+5545,,,Israel,,"Microservices,React.js,Java",,0,0,Senior Technical Lead
+5743,,,Canada,,"C++,Java,Python",,0,0,Senior Software Engineer
+5331,,,Chile,,"JavaScript,React.js,Java",,0,0,Senior ERP Specialist
+5746,,,United States,,HP UX,,0,0,Analyst
+5732,,,India,,"Microservices,React.js,Java",,0,0,Development Lead
+5726,,,India,,"Microservices,React.js,Java",,0,0,Associate
+5708,,,United States,,"Microservices,React.js,Java",,0,0,Senior Analyst
+5576,,,Guatemala,,"Microservices,Vue JS,Java",,0,0,Associate
+5711,,,Australia,,"iOS,Android,Java",,0,0,Project Lead
+5534,,Dubai,United Arab Emirates,,"Microservices,React.js,Java",,0,0,Senior Technical Lead
+5443,,,Egypt,,"Microservices,React.js,Java",,0,0,Senior ERP Specialist
+51258,,Chennai,India,,"Linux,C++,Embedded Networking",,0,0,Senior Technical Lead
+43831,,Noida,India,,SAP Finance and Costing,,0,0,
+78379,,Lucknow,India,,Azure Active Directory,,0,0,Specialist
+78391,,Madurai,India,,Sharepoint O365,,0,0,Specialist
+77624,,California,United States,,Citrix Server,,0,0,Senior Technical Manager
+77606,,Chennai,India,,"Microsoft Windows,ARABIC,English",Service Desk,0,0,Senior Specialist
+77447,,Noida,India,,Azure Active Directory,,0,0,Senior Analyst
+77724,,Rabat,Morocco,,"AMT Asset Management Software,Desk Side Services,Hardware Asset Management,MAC Hardware Mgmt,Hardware Mgmt - Printers,Windows PC",,0,0,Technical Operations Manager
+77529,,Krakow,Poland,,"Microsoft Windows,English,German",,0,0,Senior Specialist
+77517,,Rabat,Morocco,,"Service Desk,English",,0,0,Senior Engineer
+29961,,Chennai,India,,Analog Circuit Design,,0,0,
+78390,,Nagpur,India,,Sharepoint O365,,0,0,Specialist
+776619,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+77701,,Bengaluru,India,,"CA Service Desk Manager,BMC Remedy Action Request System,ServiceNow,Asset Management",,0,0,Group Manager
+6559,,,India,,HP UX,,0,0,Trainee
+DBS-__DBS-__2025__2636620,,Bengaluru,India,,EDI,"SAP Int.-EDI(Gentran/Sterling/SeeBurger),Sterling Integrator,XML,",0,0,Technical Lead
+1000,,Nagpur,India,,"CAD Design Skills,Javascript,Jquery",,0,0,"Design Lead with javascript,CAD Design Skills,Jquery"
+3281,,,New Zealand,,"React,Javascript,CSS",,0,0,"Developer with javascript,react,css New Zealand"
+4531,,,Brazil,,"SQL,Google Dataflow,Google BigQuery",AWS PaaS,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3023,,Noida,India,,"Springboot,DevOps Solutions,Java",DevOps-API_Apache Ant,0,0,Senior Developer with Oracle PL/SQL
+3515,,Noida,India,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer
+3303,,,South Africa,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm South Africa"
+4546,,,Colombia,,IBM MDM,Talend MDM,0,0,Analyst - Voice
+4436,,,United States,,"SQL,Azure Data Factory (ADF)",DevOps-API_TeamCity,0,0,Azure Data Engineer
+4524,,,Hong Kong,,"Angular,Springboot,Java",Agile-Scrum (Digital),0,0,Full Stack Java Senior Architect with Angular
+4683,,,Korea (the Republic of),,"Kotlin,Java",AWS PaaS,0,0,Kotlin Senior Developer with Java
+4684,,,Sri Lanka,,SAFe- Lean Portfolio Mgt (LPM),Terraform,0,0,Senior Program Director
+3880,,Noida,India,,"SQL,Python,Amazon Glue","MySQL,Amazon DynamoDB,Terraform",0,0,AWS Data Engineer
+3876,,Bengaluru,India,,"Cucumber,Selenium,Java",,0,0,"Automation Tester with cucumber,selenium,java"
+3741,,,India,,"Cucumber,Selenium,Java",,0,0,"Automation Tester with cucumber,selenium,java"
+5238,,Noida,India,,"spring boot,REST,Java",,0,0,"Developer with Spring boot, REST, Java"
+3936,,Noida,India,,"SQL,Informatica MDM,Oracle PL/SQL,Python",AWS PaaS,0,0,Informatica MDM Lead
+4096,,Noida,India,,"SQL,Azure Data Factory (ADF)","DevOps-API_Apache Ant,DevOps-API_TeamCity",0,0,Azure Data Engineer
+4290,,,Finland,,"SQL,Informatica MDM,Oracle PL/SQL,Python",MySQL,0,0,Informatica MDM Lead
+4229,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4256,,Noida,India,,"SQL Server Reporting (SSRS),Microsoft SSIS,SQL Server",,0,0,"Technical Lead with Microsoft SSIS,SQL Server Reporting (SSRS),sql server"
+4397,,,Austria,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",Agile-Scrum (Digital),0,0,AWS Senior Data Lead
+4219,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4215,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4221,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4441,,,Romania,,"AWS PaaS,Kofax Total Agility",Agile-Scrum (Digital),0,0,Intern
+4487,,Buenos Aires,Argentina,,"Greenplum,Jive",IBM MDM,0,0,Senior Program Director
+4515,,,Costa Rica,,"Angular,Springboot,Java",Agile-Scrum (Digital),0,0,Full Stack Java Senior Architect with Angular
+4509,,,Peru,,IBM MDM,"Greenplum,Jive",0,0,Senior Program Director
+4457,,,Guatemala,,"SQL,Azure Data Factory (ADF)",,0,0,Azure Data Engineer
+4763,,,Slovakia,,IBM MDM,DevOps-API_TeamCity,0,0,Analyst - Voice
+4766,,,Norway,,IBM MDM,DevOps-API_TeamCity,0,0,Analyst - Voice
+4770,,,Romania,,IBM MDM,DevOps-API_TeamCity,0,0,Analyst - Voice
+4821,,,Costa Rica,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SAFe- Lean Portfolio Mgt (LPM),0,0,AWS Senior Data Lead
+4868,,,Germany,,"Angular,Springboot,Java",Terraform,0,0,Full Stack Java Senior Architect with Angular
+4803,,Noida,India,,"SQL,Azure Databricks,Azure Data Factory (ADF),Python",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure DevOps Senior Administrator
+5247,,,India,,AWS PaaS,Agile-Scrum (Digital),0,0,PMO Associate
+3009,,Noida,India,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",Quest,0,0,Azure Data Lead
+3755,,,India,,"SQL,Python,Amazon Glue",AWS PaaS,0,0,AWS Data Engineer
+4988,,Noida,India,,"C#,C++,Python",,0,0,"Developer with c#,python,c++"
+4975,,Noida,India,,"Kofax Total Agility,Agile-Scrum (Digital)",AWS PaaS,0,0,Senior Program Director
+3727,,Noida,India,,"SQL,Google Dataflow,Google BigQuery",,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4962,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Senior Developer with React, Full Stack - Java, Angular"
+5047,,Noida,India,,"spring boot,Python,Java",,0,0,"Developer with Spring boot, python, java"
+1341,,,India,,"Microservices,VueJS,Java",,0,0,BTP Testing for FTE with Re Hire Checks Automation
+3629,,Noida,India,,"SQL,Python,Amazon Glue","MySQL,Full Stack - Java,DevOps-API_TeamCity",0,0,AWS Data Engineer
+3786,,Noida,India,,"SQL,Python,Amazon Glue",AWS PaaS,0,0,AWS Data Engineer
+5356,,Noida,India,,"Angular,.Net,SQL Server",,0,0,"Senior Developer with .net,angular,sql server"
+5382,,,Mexico,,"C++,Python,Java",Terraform,0,0,"Senior Developer with python,c++,java"
+3450,,,Australia,,"Selenium,Agile methodology",,0,0,"Automation Tester with Selenium, TP, Australia"
+4795,,,United States,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",IBM MDM,0,0,Azure Data Lead
+3233,,,Brazil,,"React,Javascript,CSS",,0,0,"Developer with javascript,react,css Brazil"
+4783,,Noida,India,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+3188,,,Angola,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue","DevOps-API_Apache Ant,IBM MDM",0,0,AWS Data Lead
+3138,,,Chile,,"SQL,Azure Data Factory (ADF)",,0,0,Azure Data Engineer Chile
+5354,,Noida,India,,"SQL,Azure Data Factory (ADF)","SAFe- Agile SW Engineering (ASE),DevOps-API_Apache Ant",0,0,Azure Data Engineer
+3329,,,Oman,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm Oman"
+5282,,,Portugal,,"SQL,Azure Databricks,Azure Data Factory (ADF),Python",,0,0,Azure DevOps Senior Administrator
+4693,,,Korea (the Republic of),,"Angular,Springboot,Java",Kofax Total Agility,0,0,Full Stack Java Senior Architect with Angular
+4723,,,Sweden,,"SQL,Python,Amazon Glue",Talend MDM,0,0,AWS Data Engineer
+DFS__DFS__2025__2577397,,Lucknow,India,,SAP BASIS,,0,0,Technical Specialist
+DFS__DFS__2025__2577442,,Lucknow,India,,SAP BASIS,,0,0,ASSOCIATE CONSULTANT
+1408,,,India,,"Software Testing,Obsolete - Python,Jira",,0,0,Senior Automation Test Lead Python
+2056,,,Hong Kong,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+2385,,,Hong Kong,,"Microservices,Vue JS,Java",Functional Automation,0,0,"Developer Java, Microservices, VueJS"
+2402,,,United Kingdom,,"Microservices,Vue JS,Java",Functional Automation,0,0,"Developer Java, Microservices, VueJS"
+2047,,,Bulgaria,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+1939,,,Angola,,"Microservices,React.js,Java",Google Bigtable,0,0,"SrDeveloper Java, Microservices,React.js"
+5654,,,Hong Kong,,Gear Design,,0,0,Enterprise Architect II
+5865,,,United Kingdom,,HP UX,,0,0,Associate
+5624,,,China,,HP UX,,0,0,Enterprise Architect II
+5868,,,Germany,,HP UX,,0,0,Analyst
+5815,,,Guatemala,,HP UX,,0,0,Senior Manager
+5799,,,Panama,,Gear Design,,0,0,Contract retainer
+5819,,,Guatemala,,HP UX,,0,0,Sr. Management Consultant I
+5846,,,Canada,,HP UX,,0,0,Senior Process Trainer
+5857,,,Canada,,Functional Automation,,0,0,Manager
+5856,,,Colombia,,HP UX,,0,0,Analyst
+5501,,,Belgium,,"iOS,Android,Java",,0,0,Analyst
+5830,,,Panama,,HP UX,,0,0,Associate
+5659,,,Portugal,,HP UX,,0,0,Enterprise Architect II
+5767,,,Canada,,HP UX,,0,0,Contract retainer
+2352,,,Oman,,"Devops,Full stack - java,Spring Boot",,0,0,Architect I
+5549,,,Japan,,"Microservices,React.js,Java",,0,0,Senior Technical Lead
+5454,,,India,,"C++,C#,Python",,0,0,Associate
+5808,,,Mexico,,HP UX,,0,0,Sr. Management Consultant I
+5716,,,Singapore,,"Cloud Testing,Network Security",,0,0,Senior Test Lead
+5653,,,Germany,,"iOS,Android,Java",Functional Automation,0,0,Senior Technical Lead
+5780,,,United States,,"Microservices,React.js,Java",,0,0,Analyst
+5798,,,India,,Functional Automation,,0,0,Associate
+5640,,,Angola,,HP UX,,0,0,Contract retainer
+5665,,,Russian Federation,,HP UX,,0,0,Enterprise Architect II
+5617,,,Thailand,,HP UX,,0,0,Enterprise Architect II
+5692,,,Sri Lanka,,"Microservices,React.js,Java",,0,0,Analyst
+5740,,,United Kingdom,,"iOS,Android,Java",,0,0,Project Lead
+5722,,,Portugal,,"Microservices,React.js,Java",,0,0,Lead Consultant
+5494,,,Russian Federation,,"iOS,Android,Java",,0,0,Analyst
+5497,,,France,,"iOS,Android,Java",,0,0,Analyst
+5689,,,Germany,,"HTML,JavaScript,React.js",,0,0,Senior Software Developer
+20504,,,India,,C++,,0,0,
+5695,,,United Kingdom,,"iOS,Android,Java",,0,0,Software Engineer
+5527,,,India,,"iOS,Android,Java",,0,0,Analyst
+48659,,,United States,,"High Voltage And Low Power Analog Design,UC and UP Based Design",,0,0,Lead Designer
+55950,,Madurai,India,Pega Technical Lead,Pega,,0,0,Technical Lead
+581127,,DPO-North Irela,United Kingdom,Trainee - Voice Operations (DPO),"Voice and Accent,Learning Agility",,0,0,Customer Service Represntative
+42867,,,India,,Program Management,,0,0,
+56447,,Noida,India,,"React.js,Microservices,Java",Cisco Tidal Enterprise Scheduler,0,0,Senior Software Developer
+77538,,Lucknow,India,,Hardware Asset Management,,0,0,Specialist
+67775,,Chennai,India,,Security Testing/Penetration Testing,,0,0,Senior Test Lead
+24925,,Chennai,India,,"Verbal Communication,FC - Transaction Monitoring,Written Communication,Developing Direct Reports and Others,FC - Sanction Screening",,0,0,
+4935,,Bengaluru,India,,AS 400,,0,0,
+74688,,Krakow,Poland,,"Microsoft Windows,English,German",,0,0,Senior Analyst
+78382,,Lucknow,India,,Sharepoint O365,,0,0,Specialist
+72943,,Chennai,India,,"Java,Saviynt",,0,0,Senior Specialist
+2089,,Bengaluru,India,,"Spring Boot,Java,RESTful API",,0,0,
+73774,,Noida,India,,Marketing/Presales/Sales support,,0,0,Senior Manager
+72910,,Chennai,India,,"Linux,C,Embedded Networking",,0,0,Senior Technical Specialist
+78108,,Massachusetts,United States,,"Disposable Plastic Design,Product Design,CAD Software",CAD Automation,0,0,Senior Designer
+78037,,Chennai,India,,English,,0,0,Senior Analyst
+69613,,Manila,Philippines,,"Order-to-Cash,Customer Service Support,LTC- Collections & Helpdesk",,0,0,Analyst
+77650,,Trivandrum,India,,"Microsoft Windows,ARABIC,English",,0,0,Senior Analyst
+76844,,Trivandrum,India,,"Microsoft Windows,ARABIC,English",,0,0,Senior Specialist
+60700,,Manila,Philippines,,"Microsoft Windows,ARABIC,English",,0,0,Senior Analyst
+77644,,Pune,India,,"Microsoft Windows,ARABIC,English",,0,0,Specialist
+7766195,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+19969,,Chennai,India,,Cisco Customer Voice Portal (CVP),,0,0,
+77598,,Noida,India,,Access/Rights Management Tool - Others,,0,0,Specialist
+78389,,Lucknow,India,,Sharepoint O365,,0,0,Specialist
+776615,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+TEST__TEST__25__0002,,Virginia,India,,"React,NextJS,TailwindCSS",,0,0,Tech Lead
+TEST__TEST__2024__2477389,,California,USA,,ERS Sales,,0,0,Senior Regional Sales Director
+3140,,,Estonia,,"Angular,HTML/CSS",,0,0,Angular Senior Developer Estonia
+5264,,Noida,India,,"Spring MVC,HTML,Java",,0,0,"Technical lead with Java, Spring MVC, HTML"
+5271,,,India,,"C++,Python,Java",,0,0,"Developer with python,c++,java"
+4722,,,Spain,,"SQL,Python,Amazon Glue",Talend MDM,0,0,AWS Data Engineer
+3458,,,Singapore,,"Full Stack - Java,DevOps Solutions,React.js",AWS PaaS,0,0,"Full Stack Java Technical Lead with DevOps, React"
+2916,,Noida,India,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer
+5255,,,United States,,"React,Angular,Java",,0,0,"Developer with react,angular,java"
+4143,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4416,,,China,,"SQL,Google Dataflow,Google BigQuery",Talend MDM,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4539,,,Hong Kong,,"SQL,Google Dataflow,Google BigQuery",AWS PaaS,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4713,,,Israel,,"SQL,Python,Amazon Glue",Talend MDM,0,0,AWS Data Engineer
+4687,,,New Zealand,,Quest,IBM MDM,0,0,Senior Program Director
+3887,,Noida,India,,"SQL,Azure Data Factory (ADF)","AWS PaaS,SAFe- Agile SW Engineering (ASE)",0,0,Azure Data Engineer
+3920,,Noida,India,,"SQL,Azure Data Factory (ADF)","Full Stack - Java,C++ programming",0,0,Azure Data Engineer
+3947,,Noida,India,,"SQL,Python,Amazon Glue","Agile-Scrum (Digital),IBM MDM,DevOps-API_Apache Ant,Amazon S3,DevOps-API_TeamCity",0,0,AWS Data Engineer
+3595,,,India,,"Full Stack - Java,React,Angular",,0,0,"Developer with React, Full Stack - Java, Angular"
+4141,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4314,,,Costa Rica,,"SQL,Informatica MDM,Oracle PL/SQL,Python",MySQL,0,0,Informatica MDM Lead
+4246,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4297,,,Belgium,,"SQL,Informatica MDM,Oracle PL/SQL,Python",MySQL,0,0,Informatica MDM Lead
+4205,,Noida,India,,C++,,0,0,C++ Sr. Technical Lead
+4227,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4040,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4349,,Noida,India,,Agile-Scrum (Digital),,0,0,Analyst - Voice
+4599,,,Bulgaria,,"Angular,Springboot,Java",,0,0,Full Stack Java Senior Architect with Angular
+4737,,,Finland,,,,0,0,Analyst - Voice
+4320,,,Sri Lanka,,"SQL,Google Dataflow,CA Erwin Data Modeler,Google BigQuery,Python",Terraform,0,0,GCP Data Engineer
+4638,,,Sweden,,Agile-Scrum (Digital),Talend MDM,0,0,Senior Program Director
+4575,,,Malaysia,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4522,,,United States,,"Angular,Springboot,Java",Agile-Scrum (Digital),0,0,Full Stack Java Senior Architect with Angular
+4536,,,Panama,,"SQL,Google Dataflow,Google BigQuery",AWS PaaS,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4502,,,Chile,,IBM MDM,"Greenplum,Jive",0,0,Senior Program Director
+4447,,Buenos Aires,Argentina,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",,0,0,AWS Senior Data Lead
+4877,,,United States,,"SQL,Google Dataflow,Google BigQuery",Talend MDM,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4558,,,Brazil,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4887,,,United Kingdom,,Java,,0,0,Senior Program Director
+5088,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Developer with React, Full Stack - Java, Angular"
+5033,,Noida,India,,"React,Angular,Java",,0,0,"Developer with react,angular,java"
+4856,,,United Kingdom,,"Kofax Total Agility,Acquia",AWS PaaS,0,0,Analyst - Voice
+5183,,Noida,India,,,,0,0,DU Head 1 (Client Specific)
+5225,,,India,,Canvas (Power) Apps,Agile-Scrum (Digital),0,0,Microsoft Power Apps Architect
+5251,,Noida,India,,"Spring MVC,HTML,Java",,0,0,"Senior Developer with Java, Spring MVC, HTML"
+1247,,Noida,India,,QlikView,Database and Reporting,0,0,Reporting & Data Analyst
+5076,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4488,,,Thailand,,"Angular,Springboot,Java",,0,0,"Front End Technical Lead - Angular, Javascript, HTML/CSS"
+5184,,Noida,India,,,,0,0,Financial Associate
+5413,,Noida,India,,"C++,Python,Java",,0,0,"Developer with python,c++,java"
+5439,,Nagpur,India,,AWS PaaS,,0,0,Senior Technical lead
+5441,,,India,,Talend MDM,,0,0,Solution Architect
+4298,,,China,,"SQL,Informatica MDM,Oracle PL/SQL,Python",MySQL,0,0,Informatica MDM Lead
+3731,,Noida,India,,"SQL,Azure Data Factory (ADF)","C++ programming,DevOps-API_Apache Ant,Agile-Scrum (Digital)",0,0,Azure Data Engineer
+1291,,Noida,India,,"DevOps Solutions,AWS Architecture,Java",AWS PaaS,0,0,"Java Senior Developer with DevOps Solutions,AWS Architecture"
+5363,,Noida,India,,"SQL,Unix Shell Scripting,Oracle PL/SQL,IBM Infosphere Datastage Suite",,0,0,Datastage Senior Technical Lead
+1084,,Bengaluru,India,,"React,Microservices,Java",,0,0,"Developer with Java, Microservices, React"
+5364,,Noida,India,,"SQL,Unix Shell Scripting,Oracle PL/SQL,IBM Infosphere Datastage Suite",,0,0,Datastage Technical Lead
+4284,,,Poland,,"SQL,Informatica MDM,Oracle PL/SQL,Python",MySQL,0,0,Informatica MDM Lead
+5358,,Noida,India,,"SQL,Informatica",DevOps-API_TeamCity,0,0,Informatica Developer
+3139,,,Denmark,,"SQL,DevOps Solutions,Python,Amazon Glue",,0,0,AWS Senior Data Engineer Denmark
+5353,,,India,,"C++,Python,Java",,0,0,"Developer with python,c++,java"
+3282,,,Luxembourg,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm Luxembourg"
+4647,,,Romania,,Agile-Scrum (Digital),DevOps-API_Apache Ant,0,0,Senior Program Director
+5333,,,Ireland,,"Full Stack - Java,DevOps Solutions,React.js",IBM MDM,0,0,"Full Stack Java Technical Lead with DevOps, React"
+3298,,,Taiwan,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm Taiwan"
+4417,,,China,,"Agile-Scrum (Digital),IBM MDM",,0,0,Senior Program Director
+CLOU__CLOU__2025__2578214,,Noida,India,,SAP BASIS,,0,0,ASSOCIATE CONSULTANT
+1443,,,India,,"Software Testing,Obsolete - Python,Jira",,0,0,Senior Automation Test Specialist Python
+1874,,,Ireland,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+5198,,,Türkiye,,"Microservices,React.js,Java",,0,0,"Developer Java, Microservices,React.js 1"
+1872,,,Israel,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+1099,,,India,,,,0,0,ADF Sr. Tech. Spec.
+1949,,Taguig,Philippines,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+1997,,,Canada,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+2395,,,Lithuania,,"Microservices,Vue JS,Java",Functional Automation,0,0,"Developer Java, Microservices, VueJS"
+1987,,,Mexico,,"Microservices,React.js,Java",,0,0,"Developer Java, Microservices,React.js"
+1415,,,India,,"iOS,Android,Java",Functional Automation,0,0,"Technical lead ios,android,java"
+1877,,,Mexico,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+5142,,,India,,HP UX,,0,0,Solution Director
+5218,,,Malaysia,,"iOS,Android,Java",,0,0,"Developer ios,android,java"
+5270,,,Portugal,,"JavaScript,React.js,Java",,0,0,Senior ERP Specialist
+5249,,,Italy,,HP UX,,0,0,Management Consultant I
+5862,,,Israel,,HP UX,,0,0,Associate
+5816,,,Guatemala,,HP UX,,0,0,Contract retainer
+5829,,,India,,"iOS,Android,Java",,0,0,Associate
+5627,,,Australia,,HP UX,,0,0,Enterprise Architect II
+5853,,Buenos Aires,Argentina,,HP UX,,0,0,Associate
+5850,,,Colombia,,Functional Automation,,0,0,Manager
+5541,,,New Zealand,,"Microservices,React.js,Java",,0,0,Senior Technical Lead
+5760,,,Canada,,HP UX,,0,0,Associate
+5782,,Buenos Aires,Argentina,,HP UX,,0,0,Associate
+5800,,,Brazil,,HP UX,,0,0,Account Manager
+5698,,,Germany,,"HTML,JavaScript,React.js",C++,0,0,Software Developer
+5802,,Buenos Aires,Argentina,,HP UX,,0,0,Sr. Management Consultant I
+5827,,,India,,"C#,Azure DevOps,.NET",,0,0,Software Engineer
+5763,,,United States,,HP UX,,0,0,Regional  Sales Director
+5775,,,India,,"Mongo DB,Spring Boot,Java",,0,0,Lead Consultant
+5648,,,Belgium,,HP UX,,0,0,Enterprise Architect II
+5632,,Manila,Philippines,,HP UX,,0,0,Enterprise Architect II
+5663,,,Ireland,,HP UX,,0,0,Enterprise Architect II
+1991,,,Canada,,"Microservices,React.js,Java",JavaScript,0,0,Senior Analyst
+5346,,Buenos Aires,Argentina,,"JavaScript,React.js,Java",,0,0,Senior ERP Specialist
+5312,,,India,,"Oracle PL/SQL,Obsolete - Python,Java",,0,0,Analyst
+6650,Maharastra,Pune,India,Administrator (Support & Operations),,,0,0,Tech Lead
+8712,,,Germany,,Business Analysis,,0,0,
+53605,,Hyderabad,India,,"Microservices,Python,Java,Selenium",,0,0,Senior Test Specialist
+78176,,Bucharest,Romania,,"Software Development Engineer in Test (SDET),API Testing,Selenium",,0,0,Senior Test Lead
+29158,,Chennai,India,,GE Proficy,SAP EAM Plant Maintenance,0,0,
+68956,,Chennai,India,,"Automation - Ignition,Automation - SCADA/HMI/PLC",,0,0,Technical Specialist
+77661,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+31303,,Bengaluru,India,,"Business Analysis,Agile Methodology",,0,0,
+74704,,Noida,India,,"Github,Python,Devops",,0,0,Software Developer
+48665,,Noida,India,,COTS Based Sys Integration,,0,0,Senior Software Developer
+63854,,Bengaluru,India,,"Python,Vector Databases,PostgreSQL,Prompt Engineering,RESTful API",,0,0,Senior Technical Lead
+77648,,Pune,India,,"Microsoft Windows,ARABIC,English",,0,0,Senior Analyst
+77534,,Hyderabad,India,,"Service Desk,Remote Desktop Support",,0,0,Senior Analyst
+75842,,Pune,India,,"Python,Amazon Web Services (AWS)",,0,0,Senior Software Engineer
+7766199,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+7766201,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+DBS-__DBS-__2025__2609351,,Bengaluru,India,,Financial Crime - Fraud,,0,0,SENIOR BUSINESS SPECIALIST
+TEST__TEST__2025__0000004,,Bengaluru,India,,Full Stack Developer,,0,0,Technical Lead
+3761,,Noida,India,,"SQL,Unix Shell Scripting,Oracle PL/SQL,IBM Infosphere Datastage Suite",AWS Mobile Hub,0,0,Datastage Technical Lead
+4199,,,United States,,"Selenium,Agile methodology",,0,0,USA FTE NP
+4559,,,Canada,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4690,,,New Zealand,,"Kotlin,Java",AWS PaaS,0,0,Kotlin Senior Developer with Java
+4556,,,Hong Kong,,IBM MDM,DevOps-API_TeamCity,0,0,Analyst - Voice
+4699,,Manila,Philippines,,"Angular,Springboot,Java",Kofax Total Agility,0,0,Full Stack Java Senior Architect with Angular
+4541,,,Japan,,"SQL,Google Dataflow,Google BigQuery",AWS PaaS,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4685,,,Oman,,Terraform,SAFe- Lean Portfolio Mgt (LPM),0,0,Senior Program Director
+3568,,Noida,India,,"SQL,DevOps Solutions,Python,Amazon Glue",,0,0,AWS Senior Data Engineer
+3739,,Noida,India,,"Cucumber,Selenium,Java",,0,0,"Automation Tester with cucumber,selenium,java"
+4498,,Abu Dhabi,United Arab Emirates,,"Angular,Springboot,Java",,0,0,Full Stack Java Senior Architect with Angular
+4418,,,China,,"Angular,Springboot,Java",AWS PaaS,0,0,Full Stack Java Senior Architect with Angular
+3543,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",Talend MDM,0,0,AWS Data Lead
+3673,,,United States,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer
+3518,,,Italy,,"SQL,Google Dataflow,Google BigQuery",Kofax Total Agility,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3973,,,Singapore,,"aras plm,Javascript,PL/SQL",,0,0,Proactive Singapore FTE
+4099,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue","SQL* LIMS,Analytics - SSRS/SQL,SAP BW HANA SQL,DevOps-API_TeamCity,Oracle PL/SQL,Python Programming,SQL Skills",0,0,AWS Senior Data Lead
+4308,,Jakarta,Indonesia,,"SQL,Informatica MDM,Oracle PL/SQL,Python",MySQL,0,0,Informatica MDM Lead
+4024,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4102,,Noida,India,,"SQL,Google Dataflow,Google BigQuery",Talend MDM,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4253,,Noida,India,,"SQL Server Reporting (SSRS),Microsoft SSIS,SQL Server",,0,0,"Technical Lead with Microsoft SSIS,SQL Server Reporting (SSRS),sql server"
+4427,,,Türkiye,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",AWS PaaS,0,0,AWS Senior Data Lead
+4374,,,Korea (the Republic of),,"SQL,Informatica MDM",DevOps-API_Apache Ant,0,0,Informatica MDM Engineer
+4327,,,Colombia,,"SQL,Google Dataflow,CA Erwin Data Modeler,Google BigQuery,Python",Terraform,0,0,GCP Data Engineer
+4455,,,Estonia,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",Terraform,0,0,AWS Senior Data Lead
+4470,,,Chile,,"SQL,DevOps Solutions,Python,Amazon Glue",SAFe- Agile SW Engineering (ASE),0,0,AWS Senior Data Engineer
+4616,,,France,,"Angular,Springboot,Java",,0,0,"Front End Technical Lead - Angular, Javascript, HTML/CSS"
+4644,,,Slovakia,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Senior Architect with Angular
+4920,,,United States,,"ANSYS,Abaqus,FEA Analysis",,0,0,"Analyst with FEA Analysis, Abaqus, ANSYS"
+4943,,Noida,India,,"C#,C++,Python",,0,0,"Senior Developer with c#,python,c++"
+4759,,,Switzerland,,IBM MDM,DevOps-API_TeamCity,0,0,Analyst - Voice
+4755,,,Slovakia,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Architect with Angular
+4840,,,Brazil,,"SQL,Azure Data Factory (ADF)",AWS PaaS,0,0,Azure Data Engineer
+5013,,Noida,India,,,,0,0,Consulting Partner
+4985,,Noida,India,,,,0,0,Consulting Partner
+5124,,Noida,India,,,,0,0,Consulting Partner
+5092,,Noida,India,,,,0,0,Consulting Partner
+5001,,Noida,India,,"C#,C++,Python",,0,0,"Senior Developer with c#,python,c++"
+5193,,Noida,India,,"spring boot,REST,Java",,0,0,"Technical Lead with Spring boot, REST, Java"
+4828,,,United Kingdom,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",SAFe- Agile SW Engineering (ASE),0,0,Azure Data Lead
+5224,,Noida,India,,Agile-Scrum (Digital),SAFe- Agile SW Engineering (ASE),0,0,Technical Lead
+4813,,,United Kingdom,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Lead
+3305,,,United Kingdom,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm United Kingdom"
+4243,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+3517,,Noida,India,,"SQL,Azure Data Factory (ADF)","AWS PaaS,SAFe- Agile SW Engineering (ASE),Pega,Jive,AWS Mobile Hub",0,0,Azure Data Engineer
+5409,,Noida,India,,"C++,Python,Java",,0,0,"Developer with python,c++,java"
+5440,,Nagpur,India,,AWS PaaS,,0,0,ERP Specialist
+3155,,,Peru,,"SQL,Python,Amazon Glue",,0,0,Peru FTE
+3408,,,India,,"Selenium,Python",,0,0,"Automation Tester with python,selenium"
+4629,,,Australia,,"Angular,Springboot,Java",Kofax Total Agility,0,0,Full Stack Java Senior Architect with Angular
+5335,,,Saudi Arabia,,"C++,Python,Java",,0,0,"Developer with python,c++,java"
+5230,,Noida,India,,"React,Angular,Java",,0,0,"Developer with react,angular,java"
+3306,,,Spain,,"React,Javascript,CSS",,0,0,"Developer with javascript,react,css Spain"
+4696,,,Sri Lanka,,"Angular,Springboot,Java",Kofax Total Agility,0,0,Full Stack Java Senior Architect with Angular
+CLOU__CLOU__2025__2615501,,Noida,India,,SAP BASIS,,0,0,CONSULTANT
+5416,,,India,,"C#,ASP.Net,.Net",,0,0,"Developer with .net,asp.net,c#"
+5417,,Noida,India,,"C#,ASP.Net,.Net","5G Core Architecture and Interfaces,Azure Private 5G Core",0,0,"Senior Developer with .net,asp.net,c#"
+4862,,,India,,"Microservices,Vue JS,Java",,0,0,Sr Tech Speclst Java Microservices VueJS
+1942,,,Norway,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+2138,,,United Kingdom,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+1896,,,Lithuania,,"Microservices,React.js,Java",JavaScript,0,0,"SrDeveloper Java, Microservices,React.js"
+1274,,,India,,,,0,0,WCS Technical Specialist
+5195,,,Viet Nam,,Gear Design,,0,0,Solution Director
+2096,,,Singapore,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+5217,,,Bulgaria,,"C++,Java,Python",,0,0,"Developer python,C++,java"
+1923,,,Belgium,,"Microservices,React.js,Java",,0,0,"Developer Java, Microservices,React.js"
+1996,,,Austria,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+2124,,,South Africa,,"Microservices,React.js,Java",,0,0,"Developer Java, Microservices,React.js"
+5852,,,Brazil,,HP UX,,0,0,Regional  Sales Director
+5854,,,Chile,,HP UX,,0,0,Associate
+5836,,,Brazil,,HP UX,,0,0,Senior Support Manager
+5835,,,Mexico,,HP UX,,0,0,Senior Support Manager
+5842,,,Panama,,HP UX,,0,0,Senior Support Manager
+5860,,,Costa Rica,,Functional Automation,,0,0,Senior Manager
+5728,,,India,,"HP UX,Gear Design",,0,0,Senior Test Lead
+5789,,,Brazil,,HP UX,,0,0,Senior Support Manager
+5748,,,United States,,HP UX,,0,0,Functional Consultant
+5752,,,United States,,HP UX,,0,0,Functional Consultant
+5306,,,India,,"iOS,Android,Java",,0,0,Software Developer
+5778,,,Egypt,,HP UX,,0,0,Management Consultant I
+5769,,,Mexico,,HP UX,,0,0,Management Consultant I
+5806,,,Colombia,,HP UX,,0,0,Sr. Management Consultant I
+4882,,Manila,Philippines,,"Mongo DB,Spring Boot,Java",IBM Rhapsody,0,0,Software Developer
+5703,,,India,,"Microservices,React.js,Java",,0,0,Analyst
+5704,,,Switzerland,,"Microservices,React.js,Java",,0,0,Analyst
+5565,,,Poland,,India Taxation,,0,0,Contract retainer
+5733,,,India,,"Microservices,React.js,Java",,0,0,Development Lead
+5697,,,United Kingdom,,"Microservices,Node.js,Amazon Web Services (AWS),Java",,0,0,Analyst
+5691,,,Poland,,"Microservices,React.js,Java",,0,0,Analyst
+5487,,,Bulgaria,,"iOS,Android,Java",,0,0,Analyst
+5709,,,Germany,,"Microservices,Vue JS,Java",,0,0,Lead Consultant
+5265,,,Ireland,,"Customer Focus,Data Analytics And Business Intelligence,Billing/Invoicing,Accounting/Month End Activities",,0,0,Associate
+5514,,,Malaysia,,"iOS,Android,Java",,0,0,Analyst
+5505,,,Germany,,"iOS,Android,Java",,0,0,Analyst
+53651,,Vijayawada,India,"SeniorAdministrator - Monitoring Tools, Event Monitoring","Monitoring Tool - Others,Event Monitoring,IT Support Monitoring,Contact Center Operations,Job/Batch Scheduling,Computer Network Operations",,0,0,Technical Specialist
+56019,,Madurai,India,Workday Lead Technical Consultant - EIB,"Workday (Technical) - Workday Studio,Workday Enterprise Interface Builder (EIB)",,0,0,Senior Technical Lead
+58112,,DPO-North Irela,United Kingdom,Trainee - Voice Operations (DPO),"Voice and Accent,Learning Agility",,0,0,Customer Service Represntative
+55910,,Madurai,India,"Apache Spark Technical Lead - Scala, Python","Python,Apache Spark,Scala",,0,0,Technical Lead
+581128,,DPO-North Irela,United Kingdom,Trainee - Voice Operations (DPO),"Voice and Accent,Learning Agility",,0,0,Customer Service Represntative
+24833,,Noida,India,,English,,0,0,
+77917,,Hyderabad,India,,"MAC,Windows PC",,0,0,Specialist
+77455,,Lucknow,India,,"Microsoft Windows,ARABIC,English",,0,0,Analyst
+15813,,Chennai,India,,"Python,Data Science,Microsoft PowerBI",,0,0,
+77520,,Noida,India,,"ISO 27001:2005/ISMS,Governance/Risk & Compliance (Cybersec),Risk & Compliance",,0,0,Associate
+28962,,Bengaluru,India,,ATE probe card,Load board Design,0,0,
+77733,,Chennai,India,,"Microsoft Windows,English,French",,0,0,Senior Specialist
+16333,,Bengaluru,India,,"React.js,Java Full Stack,Devops",,0,0,
+77735,,Rabat,Morocco,,"Microsoft Windows,English,French",,0,0,Senior Specialist
+76940,,Noida,India,,"Software-Defined Networking Wide Area Network (SD-WAN),Cisco Unified Wireless Networking,Network LAN/WAN mgmt",Wireless Networking,0,0,Senior Specialist
+60324,,Noida,India,,"Verbal Communication,Outcome Orientation,Written Communication,Customer Satisfaction Management,Technical diagnosis and troubleshooting",Customer Service Support,0,0,Analyst
+7766191,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+66165,,Noida,India,,"Red Hat Cluster,Red Hat Satellite,Red Hat Enterprise Linux","LINUX AWS,Oracle Cloud Infrastructure (OCI)",0,0,Senior Specialist
+17188,,Pune,India,,"Python,Snowflake,Data Build Tool (DBT),MS SQL",,0,0,
+77739,,Chennai,India,,"Access/Rights Management Tool - Others,Microsoft Windows",,0,0,Domain\Technical Architect
+776612,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+7070707,Maharastra,Pune,India,Administrator (Support & Operations),"Java,J2EE,Spring Boot",,0,0,Tech Lead
+ERS__ERS__2025__2586566,,Chennai,India,,Embedded Networking,"IDS,IPS,Network Security,",0,0,SR. SUPPORT ENGINEER
+ERS__ERS__2024__2454797,,Chennai,India,,CAA,"CATIA,VBScript,C++,PLM-Software Lifecycle Management,3DEXPERIENCE Platform Fundamentals,",0,0,Senior Developer
+TEST__TEST__2025__0000005,,Bengaluru,India,,Functional Testing,,0,0,Test Lead
+TEST__TEST__25__0005,,Bengaluru,India,,"React,NextJS,TailwindCSS",,0,0,Senior Frontend Developer
+DEMO__Java__02,,Noida,India,,"Java,J2EE,SpringBoot",,0,0,Technical Architect
+1437,,Noida,India,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer
+3386,,,China,,"Full Stack - Java,DevOps Solutions,React.js",Talend MDM,0,0,"Full Stack Java Technical Lead with DevOps, React"
+5258,,Noida,India,,"spring boot,Python,Java",,0,0,"Senior Developer with Spring boot, python, java"
+4872,,,Türkiye,,"SQL,Python,Amazon Glue",Talend MDM,0,0,AWS Data Engineer
+4889,,,Türkiye,,"SQL,Google Dataflow,Google BigQuery",Talend MDM,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4767,,,Israel,,,,0,0,Analyst - Voice
+4579,,,Japan,,IBM MDM,"Greenplum,Jive",0,0,Senior Program Director
+3533,,,China,,"Full Stack - Java,DevOps Solutions,React.js",Terraform,0,0,"Full Stack Java Technical Lead with DevOps, React"
+3519,,,Italy,,"SQL,Google Dataflow,Google BigQuery",Quest,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4407,,,Saudi Arabia,,"SQL,Google Dataflow,Google BigQuery",SAFe- Agile SW Engineering (ASE),0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3529,,,Panama,,"React,Javascript,CSS",,0,0,"Developer with javascript,react,css Panama"
+3963,,Noida,India,,"Full Stack - Java,DevOps Solutions,React.js",,0,0,"Full Stack Java Technical Lead with DevOps, React"
+3977,,Noida,India,,"SQL,Azure Data Factory (ADF)","AWS PaaS,SAFe- Agile SW Engineering (ASE)",0,0,Azure Data Engineer
+3958,,Noida,India,,"SQL,Python,Amazon Glue","Agile-Scrum (Digital),IBM MDM,Terraform,DevOps-API_TeamCity,Quest,Pega,Jive",0,0,AWS Data Engineer
+3987,,Noida,India,,"SQL,Python,Amazon Glue",DevOps-API_TeamCity,0,0,AWS Data Engineer
+3621,,Noida,India,,"Angular,Springboot,Java",Talend MDM,0,0,Full Stack Java Senior Architect with Angular
+3940,,,India,,"Angular,Springboot,Java",,0,0,"Front End Technical Lead - Angular, Javascript, HTML/CSS"
+4263,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",,0,0,AWS Data Lead
+4038,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Technical Lead with React, Full Stack - Java, Angular"
+4271,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4303,,,Italy,,"SQL,Informatica MDM,Oracle PL/SQL,Python",MySQL,0,0,Informatica MDM Lead
+4727,,,Thailand,,,,0,0,Analyst - Voice
+4702,,,South Africa,,"Kotlin,Java",AWS PaaS,0,0,Kotlin Senior Developer with Java
+4529,,,Chile,,"SQL,Google Dataflow,Google BigQuery",AWS PaaS,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4645,,,Poland,,Agile-Scrum (Digital),Talend MDM,0,0,Senior Program Director
+4786,,,Japan,,"Full Stack - Java,DevOps Solutions,React.js",Terraform,0,0,"Full Stack Java Technical Lead with DevOps, React"
+4563,,,Costa Rica,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4576,,,Malaysia,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4885,,,United States,,Java,,0,0,Senior Program Director
+5138,,Noida,India,,"React,Angular,Java",Full Stack - Java,0,0,"Senior Technical Lead with react,angular,java"
+4969,,Noida,United States,,"SQL,Azure Data Factory (ADF)",SAFe- Agile SW Engineering (ASE),0,0,Azure Data Engineer
+5089,,Noida,India,,"Unix Shell Scripting,PL/SQL,Informatica",,0,0,"Developer with Unix Shell Scripting, Informatica, PL/SQL"
+5008,,Noida,India,,,,0,0,Consulting Partner
+5053,,Noida,India,,"Unix Shell Scripting,PL/SQL,Informatica",,0,0,"Developer with Unix Shell Scripting, Informatica, PL/SQL"
+5226,,Noida,India,,DevOps-API_Apache Ant,SAFe- Lean Portfolio Mgt (LPM),0,0,Shift Lead
+5148,,,India,,,,0,0,Associate Finance - AP/Banking
+2970,,Noida,India,,"SQL,Azure Data Factory (ADF)",DevOps-API_TeamCity,0,0,Azure Data Engineer
+5021,,Noida,India,,"Full Stack - Java,React,Angular",,0,0,"Senior Technical Lead with React, Full Stack - Java, Angular"
+5020,,Noida,India,,,,0,0,EnterpriseSolution Architect(Consulting)
+5144,,,India,,"SQL,DevOps Solutions,Python,Amazon Glue",,0,0,AWS Senior Data Engineer
+3411,,,Morocco,,"Full Stack - Java,DevOps Solutions,React.js",Agile-Scrum (Digital),0,0,"Full Stack Java Technical Lead with DevOps, React"
+5398,,Noida,India,,"Agile methodology,Program Management",DevOps-API_TeamCity,0,0,Senior Program Manager with Agile
+4793,,Noida,India,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",IBM MDM,0,0,Azure Data Lead
+5414,,,India,,"C#,ASP.Net,.Net",,0,0,"Developer with .net,asp.net,c#"
+1465,,Noida,India,,"SQL,DevOps Solutions,Python,Amazon Glue",,0,0,AWS Senior Data Engineer
+3076,,Noida,India,,"SQL,Azure Data Factory (ADF)",,0,0,Azure Data Engineer
+5384,,,United Kingdom,,"Kotlin,Java",,0,0,Kotlin Senior Developer with Java
+5232,,Noida,India,,"React,Angular,Java",,0,0,"Developer with react,angular,java"
+4811,,,United States,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",Talend MDM,0,0,Azure Data Lead
+3279,,,Netherlands,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm Netherlands"
+3297,,,Switzerland,,"React,Javascript,CSS",,0,0,"Developer with javascript,react,css Switzerland"
+DFS__DFS__2025__2660366,,Noida,India,,SAP BASIS,,0,0,SPECIALIST
+3338,,Noida,India,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",Talend MDM,0,0,Azure Data Lead
+4973,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",Terraform,0,0,AWS Senior Data Lead
+3257,,,Australia,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm Australia"
+5199,,,United States,,"iOS,Android,Java",,0,0,"Developer ios,android,java"
+1394,,,India,,"iOS,Android,Java",,0,0,"Developer ios,android,java"
+4884,,,United Kingdom,,"Product Support (L1-L2-L3),Database Support",GCP Operations Suite,0,0,Administrator - Database Support
+1953,,,China,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+1854,,,Lithuania,,"Microservices,Vue JS,Java",Gear Design,0,0,"Developer Java, Microservices, VueJS"
+5164,,,United Kingdom,,"iOS,Android,Java",,0,0,"Developer ios,android,java"
+2344,,,Taiwan,,"Devops,Full stack - java,Spring Boot",,0,0,Full Stack Java Tech Architect (DevOps)
+2057,,,Netherlands,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+1966,,,Spain,,"Microservices,React.js,Java",Gear Design,0,0,"Developer Java, Microservices,React.js"
+5219,,Jakarta,Indonesia,,"iOS,Android,Java",,0,0,"Developer ios,android,java"
+5736,,,India,,"C++,C#,.NET",,0,0,Associate
+5737,,,India,,"Microservices,React.js,Java",,0,0,Lead Consultant
+5822,,,Panama,,HP UX,,0,0,Sr. Management Consultant I
+5239,,,Spain,,HP UX,,0,0,Management Consultant I
+5447,,,India,,"Communication Skills,Microservices,Java,Interpersonal Effectiveness",,0,0,Development  Lead
+5257,,,Slovakia,,"Customer Focus,Data Analytics And Business Intelligence,Billing/Invoicing,Accounting/Month End Activities",,0,0,Associate
+5256,,,Romania,,"Voice and Accent,Learning Agility",,0,0,Process Associate
+5820,,,Colombia,,HP UX,,0,0,Sr. Management Consultant I
+5533,,,Thailand,,"Microservices,React.js,Java",,0,0,Senior Technical Lead
+5801,,,Brazil,,HP UX,,0,0,Sr. Management Consultant I
+5292,,,India,,"Functional Automation,HP PPM",Implementation-End Point,0,0,Associate
+5783,,,Brazil,,HP UX,,0,0,Associate
+5714,,,Australia,,"Microservices,React.js,Java",,0,0,Analyst
+5323,,,India,,"iOS,Android,Java",,0,0,Development Lead
+5558,,,Luxembourg,,HP UX,,0,0,Contract retainer
+5645,,,Czech Republic,,HP UX,,0,0,Enterprise Architect II
+5622,,Jakarta,Indonesia,,HP UX,,0,0,Enterprise Architect II
+5772,,,India,,HP UX,,0,0,Lead Associate
+5539,,,Taiwan,,"Microservices,React.js,Java",,0,0,Senior Technical Lead
+5742,,Taguig,Philippines,,"Communication Skills,Information Technology Infrastructure Library (ITIL),Budget and Financial Management,Action Management",,0,0,Senior Team Lead
+5600,,,Luxembourg,,"Microservices,Vue JS,Java",,0,0,Senior ERP Specialist
+5720,,,Israel,,"Microservices,React.js,Java",,0,0,Lead Consultant
+5741,,,Mexico,,"C++,Java,Python",,0,0,Software Engineer
+5362,,,Saudi Arabia,,"Microservices,Vue JS,Java",,0,0,Senior ERP Specialist
+5338,,,Panama,,"JavaScript,React.js,Java",,0,0,Senior ERP Specialist
+5696,,,India,,"iOS,Android,Java",,0,0,Software Developer
+5710,,,India,,"Client Engagement,C++",Gear Design,0,0,Software Developer
+581126,,DPO-North Irela,United Kingdom,Trainee - Voice Operations (DPO),"Voice and Accent,Learning Agility",,0,0,Customer Service Represntative
+55971,,Madurai,India,Pega Senior Technical Lead,Pega,,0,0,Senior Technical Lead
+55903,,Madurai,India,"Senior Apache Spark Developer - Scala, Python","Python,Apache Spark,Scala",,0,0,Senior Software Developer
+35598,,,India,,Risk Management,,0,0,
+77706,,New Jersey,United States,,"Agile Methodology,Project Management,Scrum",,0,0,Senior Project Manager
+77503,,Arizona,United States,,"AMT Asset Management Software,Desk Side Services,Hardware Asset Management,MAC Hardware Mgmt,Hardware Mgmt - Printers,Windows PC",,0,0,Senior Specialist
+53226,,Hyderabad,India,,"Microsoft Windows,ARABIC,English",,0,0,Senior Specialist
+1975,,Noida,India,,Google Cloud Platform (GCP),,0,0,
+72149,,Chennai,India,,SAP SuccessFactors Learning,,0,0,Senior Consultant
+78383,,Nagpur,India,,Sharepoint O365,,0,0,Specialist
+77600,,New Jersey,United States,,"Microservices,Python,Cloud Computing",Django,0,0,Senior Technical Specialist
+69065,,Chennai,India,,"Customer Information Control System (CICS),IBM DB2,Job Control Language (JCL),Virtual Storage Access Methods (VSAM),COBOL",,0,0,Senior Software Engineer
+48853,,Noida,India,,COTS Based Sys Integration,,0,0,Senior Software Developer
+77646,,Pune,India,,"Microsoft Windows,ARABIC,English",,0,0,Senior Specialist
+77468,,Nagpur,India,,VMware Workspace ONE,,0,0,Senior Analyst
+72134,,Chennai,India,,Google Cloud Platform (GCP),,0,0,Technical Lead
+77448,,Nagpur,India,,Azure Active Directory,,0,0,Senior Analyst
+77737,,Chennai,India,,"Microsoft Windows,English,French",,0,0,Senior Specialist
+76493,,Hyderabad,India,,"React.js,Angular,Java",Angular JS,0,0,Senior Technical Lead
+18052,,Noida,India,,"Workday (Technical) - Workday Studio,Workday Enterprise Interface Builder (EIB)",,0,0,
+17232,,Bengaluru,India,,"Java,Devops,Amazon Web Services (AWS)",,0,0,
+18378,,Chennai,India,,"Spring Boot,Java,RESTful API",,0,0,
+69696,,Pune,India,,"TC Admin Modules,Teamcenter",Project Management,0,0,Senior Technical Specialist
+67517,,Bengaluru,India,,"Enh.Interaction Unified Mediation (eIUM),Java,Linux,Telecommunications,RESTAPI",,0,0,Lead Designer
+78038,,Texas,United States,,"Desk Side Services,Windows PC",,0,0,Senior System Administrator
+78388,,Lucknow,India,,Sharepoint O365,,0,0,Specialist
+7766196,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+7766198,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+776617,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+DBS-__DBS-__2025__2636626,,Bengaluru,India,,EDI,"SAP Int.-EDI(Gentran/Sterling/SeeBurger),Sterling Integrator,XML,",0,0,LEAD CONSULTANT
+TEST__TEST__2025__0000002,,Bengaluru,India,,.Net Developer,,0,0,Technical Lead
+1290,,Noida,India,,"SQL,Unix Shell Scripting,Informatica Intelligent Cloud Services,Oracle PL/SQL",,0,0,Informatica Technical Lead
+5269,,,Netherlands,,"SQL,Tableau",,0,0,Tableau Developer
+4530,,,Canada,,"SQL,Google Dataflow,Google BigQuery",AWS PaaS,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+5254,,,United States,,"SQL,Unix Shell Scripting,Oracle PL/SQL,IBM Infosphere Datastage Suite",,0,0,Datastage Senior Technical Lead
+5228,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",DevOps-API_Apache Ant,0,0,AWS Senior Data Lead
+4782,,,Sri Lanka,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4709,,,Oman,,"SQL,Google Dataflow,Google BigQuery",DevOps-API_Apache Ant,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+3565,,Noida,India,,"Springboot,Architecture - Java/J2EE,REST",AWS PaaS,0,0,Springboot Technical Lead
+3677,,Noida,India,,"Full Stack - Java,DevOps Solutions,React.js",AWS PaaS,0,0,"Full Stack Java Technical Lead with DevOps, React"
+4408,,,Saudi Arabia,,"Angular,Springboot,Java",IBM MDM,0,0,Full Stack Java Senior Architect with Angular
+4410,,,Saudi Arabia,,"Finacle,SAFe- Lean Portfolio Mgt (LPM)",AWS PaaS,0,0,Senior Program Director
+3888,,Noida,India,,"SQL,Azure Data Factory (ADF)","AWS PaaS,SAFe- Agile SW Engineering (ASE)",0,0,Azure Data Engineer
+3704,,Noida,India,,"SQL,Python,Amazon Glue",AWS PaaS,0,0,AWS Data Engineer
+3675,,,United States,,"SQL,Python,Amazon Glue",,0,0,AWS Data Engineer
+3971,,,Australia,,"aras plm,Javascript,PL/SQL",,0,0,Proactive Australia New
+3605,,Noida,India,,"SQL,Python,Amazon Glue","Terraform,DevOps-API_TeamCity,Architecture - Java/J2EE,Core Java",0,0,AWS Data Engineer
+3950,,Noida,India,,"SQL Server Reporting (SSRS),Microsoft SSIS,SQL Server",,0,0,"Technical Lead with Microsoft SSIS,SQL Server Reporting (SSRS),sql server"
+4092,,Noida,India,,"SQL,Google Dataflow,Google BigQuery",,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4260,,Noida,India,,"SQL Server Reporting (SSRS),Microsoft SSIS,SQL Server",Kofax Total Agility,0,0,"Technical Lead with Microsoft SSIS,SQL Server Reporting (SSRS),sql server"
+4120,,Noida,India,,"SQL,DevOps Solutions,Python,Amazon Glue",Agile-Scrum (Digital),0,0,AWS Senior Data Engineer
+4059,,Noida,India,,"React,Javascript",,0,0,FTE INDIA
+4022,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4232,,,United States,,"Full Stack - Java,DevOps Solutions,React.js",SAFe- Agile SW Engineering (ASE),0,0,"Full Stack Java Technical Lead with DevOps, React"
+4372,,,Germany,,"SQL,Azure Data Factory (ADF)",AWS PaaS,0,0,Azure Data Engineer
+4186,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SQL Server,0,0,AWS Data Lead
+4421,,,Hungary,,"SQL,Unix Shell Scripting,Oracle PL/SQL,IBM Infosphere Datastage Suite",Talend MDM,0,0,Datastage Technical Lead
+4332,,Noida,India,,"SQL,Python,Amazon Glue",SAFe- Agile SW Engineering (ASE),0,0,AWS Data Engineer
+4351,,Noida,India,,"Springboot,DevOps Solutions,Java",,0,0,Full Stack Java Senior Technical Lead with  DevOps
+4740,,,Denmark,,,,0,0,Analyst - Voice
+4600,,,Czech Republic,,"Full Stack - Java,React,Angular",,0,0,"Developer with React, Full Stack - Java, Angular"
+4613,,,Finland,,"Angular,Springboot,Java",,0,0,"Front End Technical Lead - Angular, Javascript, HTML/CSS"
+4735,,,Egypt,,,,0,0,Analyst - Voice
+4682,,,Russian Federation,,Agile-Scrum (Digital),IBM Optim,0,0,Senior Program Director
+4590,,,Angola,,"Angular,Springboot,Java",,0,0,Full Stack Java Senior Architect with Angular
+4466,,,Ireland,,"SQL,Informatica MDM",Talend MDM,0,0,Informatica MDM Engineer
+4562,,,Guatemala,,"SQL,Azure Data Factory (ADF)",SAFe- Lean Portfolio Mgt (LPM),0,0,Azure Data Engineer
+4513,,,Guatemala,,"Angular,Springboot,Java",Agile-Scrum (Digital),0,0,Full Stack Java Senior Architect with Angular
+4784,,,United Kingdom,,"Angular,Springboot,Java",DevOps-API_TeamCity,0,0,Full Stack Java Senior Architect with Angular
+4768,,,Lithuania,,IBM MDM,DevOps-API_TeamCity,0,0,Analyst - Voice
+4543,,,Brazil,,IBM MDM,DevOps-API_Apache Ant,0,0,Analyst - Voice
+4888,,,United Kingdom,,Java,,0,0,Senior Program Director
+5023,,Noida,India,,"MySQL,ASP.Net,MVC,.Net",,0,0,"Developer with .Net, MySQL, ASP.Net, MVC"
+5235,,Noida,India,,"Unix Shell Scripting,PL/SQL,Informatica",,0,0,"Senior Developer with Unix Shell Scripting, Informatica, PL/SQL"
+5116,,Noida,India,,,,0,0,Consulting Partner
+4744,,,Luxembourg,,"Full Stack - .NET,Angular,ASP.Net MVC",,0,0,Microsoft Full Stack Architect with Angular
+2845,,Noida,India,,"SQL,Google Dataflow,Google BigQuery",,0,0,"Functional Lead  with Oracle ERP Cloud - AR,GL,Order Mangement, Inventory"
+4825,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",SAFe- Lean Portfolio Mgt (LPM),0,0,AWS Senior Data Lead
+5110,,Noida,India,,"React,Angular,Java",SAFe- Agile SW Engineering (ASE),0,0,"Senior Developer with react,angular,java"
+5229,,Noida,India,,"Unix Shell Scripting,PL/SQL,Informatica",,0,0,"Developer with Unix Shell Scripting, Informatica, PL/SQL"
+3258,,,China,,"React,Javascript,Java",,0,0,"Developer with javascript,react,java China"
+3300,,,Singapore,,"aras plm,Javascript,PL/SQL",,0,0,"Developer with javascript,PL/SQL,aras plm Singapore"
+5103,,,India,,AWS PaaS,Agile-Scrum (Digital),0,0,Senior Designer
+3778,,Noida,India,,"Kotlin,Java",,0,0,Kotlin Senior Developer with Java
+4870,,,United Kingdom,,"SQL,Python,Amazon Glue",Talend MDM,0,0,AWS Data Engineer
+3487,,Noida,India,,"SQL,Azure Databricks,Azure Data Factory (ADF),Oracle PL/SQL,Python",Talend MDM,0,0,Azure Data Lead
+4390,,,United States,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",AWS PaaS,0,0,AWS Data Lead
+4938,,,United States,,"SQL,IBM Infosphere Datastage Suite",SAFe- Agile SW Engineering (ASE),0,0,Datastage Engineer
+4631,,,Australia,,Terraform,,0,0,Analyst - Voice
+2977,,Noida,India,,"SQL,Unix Shell Scripting,IBM Infosphere Datastage Suite",,0,0,Datastage Senior Engineer
+4287,,,Japan,,"SQL,Informatica MDM,Oracle PL/SQL,Python",MySQL,0,0,Informatica MDM Lead
+5359,,Noida,India,,"SQL,Azure Data Factory (ADF)",DevOps-API_TeamCity,0,0,Azure Data Engineer
+5243,,,India,,,,0,0,Associate Finance - AP/Banking
+3972,,,China,,"React,Javascript,Java",,0,0,Proactive China FTE
+3299,,,Romania,,"React,Javascript,Java",,0,0,"Developer with javascript,react,java Romania"
+3006,,Noida,India,,"SQL,Snowflake,DevOps Solutions,Python,Amazon Glue",AWS PaaS,0,0,AWS Data Lead
+DFS__DFS__2025__2577450,,Lucknow,India,,SAP BASIS,,0,0,ASSOCIATE CONSULTANT
+4676,,Manila,Philippines,,"Kotlin,Java",AWS PaaS,0,0,Kotlin Senior Developer with Java
+5279,,Noida,India,,"Web Development_Javascript,React.js,Node.js",Python Programming,0,0,"Technical Lead with React, Javascript, Node"
+3254,,,Israel,,"CAD Design Skills,Javascript,Jquery",,0,0,"Designer with javascript,CAD Design Skills,Jquery Israel"
+5206,,Taguig,Philippines,,"Angular,React.js,Java",,0,0,"Developer React.js,angular,java"
+1884,,,Switzerland,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+1992,,,Italy,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+5170,,,India,,"C#,Azure DevOps,.NET",,0,0,C# Sr. Developer with DevOps
+3290,,,India,,"iOS,Android,Java",HP UX,0,0,"Developer ios,android,java"
+1868,,,Lithuania,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+2140,,,United States,,"Microservices,Vue JS,Java",Gear Design,0,0,"Developer Java, Microservices, VueJS"
+5220,,Dubai,United Arab Emirates,,"iOS,Android,Java",,0,0,"Developer ios,android,java"
+5171,,,India,,HP UX,Java,0,0,CR - Fellow (DFS)
+1886,,Dubai,United Arab Emirates,,"Microservices,Node.js,Amazon Web Services (AWS),Java",MySQL,0,0,"Tech lead Java, Node.js, Microservices"
+5832,,,India,,"iOS,Android,Java",,0,0,Software Developer
+5866,,,Slovakia,,HP UX,,0,0,Associate
+5863,,,Romania,,HP UX,,0,0,Associate
+5543,,,Australia,,"Microservices,React.js,Java",,0,0,Senior Technical Lead
+5516,,,United States,,"iOS,Android,Java",,0,0,Analyst
+5841,,,Colombia,,HP UX,,0,0,Senior Support Manager
+5790,,Buenos Aires,Argentina,,HP UX,,0,0,Senior Process Trainer
+5751,,,United States,,HP UX,,0,0,Management Consultant I
+5749,,,United States,,HP UX,,0,0,Sr. Management Consultant I
+5824,,,India,,"C#,Azure DevOps,.NET",,0,0,Software Engineer
+5823,,,Panama,,India Taxation,,0,0,Associate
+5779,,,South Africa,,HP UX,,0,0,Management Consultant I
+5525,,,India,,"Gear Design,IBM Rhapsody",,0,0,Scholar
+5750,,,United States,,HP UX,,0,0,Analyst
+5809,,,Guatemala,,HP UX,,0,0,Senior Manager
+5723,,,Bulgaria,,"Microservices,React.js,Java",,0,0,Lead Consultant
+5796,,,India,,"C#,Angular,.NET",,0,0,Software Engineer
+5567,,,Italy,,HELIX ECM,,0,0,Contract retainer
+5561,,,Netherlands,,Gear Design,,0,0,Associate
+5438,,,Germany,,"Microservices,React.js,Java",,0,0,Senior ERP Specialist
+5330,,,Canada,,"JavaScript,React.js,Java",,0,0,Senior ERP Specialist
+5486,,,Angola,,"iOS,Android,Java",,0,0,Analyst
+5641,,,France,,HP UX,,0,0,Associate
+5662,,,Slovakia,,HP UX,,0,0,Enterprise Architect II
+5478,,,Morocco,,"iOS,Android,Java",,0,0,Analyst
+5477,,,Luxembourg,,"iOS,Android,Java",,0,0,Analyst
+5721,,,Belgium,,"Microservices,React.js,Java",,0,0,Lead Consultant
+5332,,,Colombia,,"JavaScript,React.js,Java",,0,0,Senior ERP Specialist
+5707,,,India,,"Microservices,Vue JS,Java",,0,0,Analyst
+5470,,,India,,"iOS,Android,Java",,0,0,Software Developer
+5581,,,Romania,,"Microservices,Vue JS,Java",,0,0,Senior ERP Specialist
+5688,,,India,,"C#,Angular,.NET","Full stack - java,HTML,C++",0,0,Technical Specialist
+5700,,,Germany,,"Microservices,React.js,Java",,0,0,Analyst
+78385,,Lucknow,India,,Sharepoint O365,,0,0,Specialist
+19780,,Sofia,Bulgaria,,Program & Project Management,,0,0,
+73435,,Noida,India,,"Manual Testing,Functional Testing",,0,0,Senior Test Lead
+75963,,Chennai,India,,"IBM WebSphere Commerce,Java",,0,0,Technical Specialist
+78380,,Chennai,India,,Sharepoint O365,,0,0,Subject Matter Expert
+77660,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Project Manager
+72290,,Bengaluru,India,,"Python,Kubernetes,Devops",,0,0,Senior Software Developer
+15354,,Vijayawada,India,,"React.js,Java Full Stack,Devops",,0,0,
+7766202,,Noida,India,,Cisco Customer Voice Portal (CVP),,0,0,Senior Project Manager
+77187,,Chennai,India,,"Agile Methodology,Project Management,Scrum",,0,0,Senior Project Lead
+71215,,New Jersey,United States,,Service Delivery Management,,0,0,General Manager
+70561,,Hyderabad,India,,"Security Testing/Penetration Testing,Security Standards-OWASP/SANS",,0,0,Senior Test Engineer
+ERS__ERS__2025__2574260,,Pune,India,,Business Analysis,"CFD Analysis,Dynamic Analysis,Agile methodology,",0,0,SENIOR BUSINESS ANALYST
+HCL__HCL__2025__2577635,,Bengaluru,India,,Operations Management,,0,3,Associate-Data
+DFS__DFS__2024__2481701,,Virginia,USA,,"React,NextJS,CSS_TailwindCSS",,0,5,Senior Software Engineer
+77437,,Manila,Philippines,,"Microsoft Windows,English,French",Service Desk,1,0,Analyst
+77718,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77434,,Manila,Philippines,,"Microsoft Windows,English,French",,1,0,Analyst
+77716,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77438,,Manila,Philippines,,"Microsoft Windows,English,French",Service Desk,1,0,Analyst
+77722,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77719,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77441,,Manila,Philippines,,"Microsoft Windows,English,French",Service Desk,1,0,Analyst
+77729,,Madurai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77727,,Madurai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77731,,Madurai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77708,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77712,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77732,,Madurai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77725,,Madurai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77709,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77723,,Rabat,Morocco,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77714,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77711,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77730,,Madurai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77720,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+77713,,Chennai,India,,"Microsoft Windows,English,French",,1,0,Senior Analyst
+71343,,COLOMBO,Sri Lanka,,"Microsoft Windows,ARABIC,English","Customer Service - Chat,Voice and Accent,Service Desk",2,0,Senior Analyst
+DBS-__DBS-__2024__2529196,,Chennai,India,,ServiceNow GRC,"ServiceNow Integration Development,ServiceNow Technical,",2,3,SENIOR SOFTWARE ENGINEER
+TEST__TEST__25__0006,,Virginia,USA,,"Java,J2EE_Spring Boot,Hibernate",,2,5,Tech Lead
+TEST__TEST__25__0011,,Virginia,USA,,"Java,J2EE_Spring Boot,Hibernate",,2,5,Tech Lead
+TEST__TEST__25__0007,,Virginia,USA,,"Java,J2EE_Spring Boot,Hibernate",,2,5,Tech Lead
+DFS__DFS__2024__2481703,,Virginia,USA,,"React,NextJS,CSS_TailwindCSS",,2,5,Senior Software Engineer
+TEST__TEST__25__0010,,Virginia,USA,,"Java,J2EE_Spring Boot,Hibernate",,2,5,Tech Lead
+TEST__TEST__25__0009,,Virginia,USA,,"Java,J2EE_Spring Boot,Hibernate",,2,5,Tech Lead
+TEST__TEST__25__0000,,Virginia,USA,,"React,NextJS,TailwindCSS",,2,5,Tech Lead
+TEST__TEST__25__0008,,Virginia,USA,,"Java,J2EE_Spring Boot,Hibernate",,2,5,Tech Lead
+TEST__TEST__25__0003,,Virginia,India,,"React,NextJS,TailwindCSS",,2,15,Tech Lead
+TEST__TEST__25__0001,,Virginia,USA,,"React,NextJS,TailwindCSS",,2,15,Tech Lead
+DBS-__DBS-__2025__2752759,,Noida,India,,SAP Basis S/4HANA Upgrade &amp; Migration,,3,0,Senior Developer
+HCL__HCL__2025__2569672,,Bucharest,Romania,,Operations Management,,3,5,LEAD ANALYST
+DFS__DFS__2024__2481704,,Virginia,USA,,"React,NextJS,CSS_TailwindCSS",,3,5,Senior Software Engineer
+DBS-__DBS-__2025__2662433,,Lucknow,India,,SAP Basis Hana Administration,,3,5,SENIOR CONSULTANT
+HCL__HCL__2025__2569445,,Bucharest,Romania,,Operations Management,,3,5,LEAD ANALYST
+HCL__HCL__2025__2569468,,Bucharest,Romania,,Operations Management,,3,5,LEAD ANALYST
+72750,,Noida,India,,"Python,Machine Learning and Statistical modeling,MS SQL,PyTorch,TensorFlow",,3,7,Senior Technical Lead
+DFS__DFS__2024__2481705,,Virginia,USA,,"Java,React,SpringBoot",,3,8,Tech Lead
+64501,,Noida,India,,Avaya (Telecommunications),,4,7,Subject Matter Expert
+HCL__HCL__2025__2594257,,Manila,Philippines,,PEOPLE MAGICIAN,,4,7,Team Leader
+DFS__DFS__2024__2481700,,Virginia,USA,,"React,NextJS,CSS_TailwindCSS",,5,0,Senior Software Engineer
+DBS-__DBS-__2025__2748058,,Rio De Janerio,Brazil,,SAP Basis S/4HANA Upgrade &amp; Migration,,5,0,LEAD CONSULTANT
+33011,,Chennai,India,,Gen AI,"Agentic AI,Azure OpenAI Service,Microsoft Power Automate,Prompt Engineering,Azure AI Services",5,0,
+4156,,Noida,India,,"AMS Design,DDR,GPIO",,5,0,Senior Design Lead
+DFS__DFS__2024__2481702,,Virginia,USA,,"React,NextJS,CSS_TailwindCSS",,5,0,Senior Software Engineer
+DFS__DFS__2024__2476360,,Noida,India,,SAP BASIS,,5,0,Technical Specialist
+74841,,Hyderabad,India,,"D365 - F&SCM - Financial Reporting,D365 - F&SCM - Expense Management",,5,0,Lead Consultant
+60124,,Bengaluru,India,,"React.js,Java,JavaScript",,5,0,Senior Technical Lead
+ERS__ERS__2025__2634766,,Chennai,India,,Embedded Device Testing,,5,7,LEAD ENGINEER
+DBS-__DBS-__2025__2699200,,Ontario,Canada,,SAP Basis S/4HANA Upgrade &amp; Migration,"SAP Basis,",5,7,Senior Technical Architect
+ERS__ERS__2024__2516699,,Chennai,India,,Python - Automation,"L3 Support,",5,8,TEST LEAD
+APME__APME__2025__2751674,,Bengaluru,India,,SAP Basis S/4HANA Upgrade &amp; Migration,,5,8,LEAD
+APME__APME__2025__2601480,,Bengaluru,India,,Oracle,,5,9,Project Lead
+APME__APME__2025__2607006,,Bengaluru,India,,IBM BPM Version 8,,5,9,Project Lead
+APME__APME__2025__2605970,,Bengaluru,India,,React.js,,5,9,Project Lead
+APME__APME__2025__2605995,,Bengaluru,India,,AngularJS,,5,9,Project Lead
+APME__APME__2025__2605976,,Bengaluru,India,,React.js,,5,9,Project Lead
+DBS-__DBS-__2025__2590147,,Chennai,India,,SAP ABAP,,5,10,Senior Project Manager
+DBS-__DBS-__2025__2590140,,Chennai,India,,SAP ABAP,,5,10,Senior Project Lead
+DBS-__DBS-__2025__2731834,,Noida,India,,SAP Basis S/4HANA Upgrade &amp; Migration,"SAP Security &amp;amp; Authorization,SAP Basis Application Integration,SAP Basis Hana Administration,SAP CDS views,SAP HANA DB Administration,",6,0,SENIOR CONSULTANT
+DFS__DFS__2023__2194795,,Vijayawada,India,,SAP Basis Hana Administration,,7,0,Technical Specialist
+DBS-__DBS-__2025__2734978,,California,USA,,SAP Basis S/4HANA Upgrade &amp; Migration,,7,0,Senior Technical Lead
+DBS-__DBS-__2025__2635682,,Noida,India,,.Net,"React.js,SQL Server,C#,ASP.Net,",7,8,Senior Technical Lead
+DFS__DFS__2025__2657603,,Bengaluru,India,,SAP,,8,0,CONSULTANT
+TEST__TEST__2025__0000001,,Bengaluru,India,,"Electric System Design,CATIA V5",,8,16,Senior Project Manager
+68830,,Vijayawada,India,,"Microsoft UI Automation,Appium,Software Testing",Playwright,9,9,Senior Test Lead
+78386,,Sao Paulo,Brazil,,"Tableau,MS SQL",,10,0,Senior Technical Lead
+72754,,Noida,India,,"Python,Machine Learning and Statistical modeling,MS SQL,PyTorch,TensorFlow",AI/ML Tools - Others,10,0,Senior Technical Lead
+DBS-__DBS-__2025__2739277,,Chennai,India,,SAP Basis S/4HANA Upgrade &amp; Migration,"Amazon Web Services (AWS),Java,",10,0,Senior Analyst
+DBS-__DBS-__2025__2722624,,Lucknow,India,,SAP Basis S/4HANA Upgrade &amp; Migration,"SAP Basis,",10,0,LEAD CONSULTANT
+33009,,Bengaluru,India,,AS 400,,10,0,
+DBS-__DBS-__2025__2727447,,Noida,India,,SAP Basis S/4HANA Upgrade &amp; Migration,,15,0,Senior Product Support Specialist
+DBS-__DBS-__2025__2733806,,Bengaluru,India,,SAP Basis S/4HANA Upgrade &amp; Migration,"SAP Basis Hana Administration,Azure - Database,",15,0,TECHNICAL ARCHITECT
+DBS-__DBS-__2025__2726553,,Noida,India,,SAP Basis S/4HANA Upgrade &amp; Migration,,15,0,LEAD CONSULTANT
+DFS__DFS__2025__2646748,,Noida,India,,SAP BASIS,,15,0,CONSULTANT

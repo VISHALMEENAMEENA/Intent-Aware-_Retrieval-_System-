@@ -1,0 +1,4 @@
+{
+  "raw_jd": "java developer, sdlc, Genai, dsa, system designing",
+  "industry": ""
+}

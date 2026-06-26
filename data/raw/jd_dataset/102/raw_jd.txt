@@ -1,0 +1,4 @@
+{
+  "raw_jd": " HELLO\n                \n                123456\n                goodbyenot me!",
+  "industry": ""
+}

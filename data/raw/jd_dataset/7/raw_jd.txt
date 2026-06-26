@@ -1,0 +1,4 @@
+{
+  "industry": "Any Industry",
+  "raw_jd": "Job Title: DATA ENGINEER\nLocation: Seattle\nCountry: USA\nExperience Required: 2.7 - 4.4 years\n\nPrimary Skills: Azure\nSecondary Skills: Spark, Docker\n\nJob Description:\nKnowledge on Control-M v9 architecture, job scheduling and admin activities.\nExperience with component security and EM Security.\nExperience with CTM and EM databases and structure.\nExperience in installation, configuration and administration.\nTroubleshoot Control-M dependencies and take corrective actions.\n\nAdditional Requirements:\nPerform initial analysis for root cause of failed and long running jobs.\nExperience in installation, configuration and administration."
+}

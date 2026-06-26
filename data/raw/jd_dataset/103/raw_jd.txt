@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Hiring: Graphic Designer. Responsibilities include creating logos, designing marketing materials, and collaborating with clients. Skills: Adobe Suite, creativity, attention to detail.",
+  "industry": ""
+}

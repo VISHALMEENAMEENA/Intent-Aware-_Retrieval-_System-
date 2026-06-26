@@ -1,0 +1,4 @@
+{
+  "raw_jd": "C ,  C++ RTOS developers , 2-5 years expericne",
+  "industry": ""
+}

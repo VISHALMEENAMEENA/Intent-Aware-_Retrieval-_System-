@@ -1,0 +1,4 @@
+{
+  "raw_jd": "%3Cscript%3Ealert('XSS')%3C%2Fscript%3E\nReact JS Demo",
+  "industry": ""
+}

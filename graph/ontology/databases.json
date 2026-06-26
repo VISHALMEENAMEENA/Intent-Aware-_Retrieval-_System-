@@ -1,0 +1,13 @@
+[
+  "postgresql",
+  "postgres",
+  "mysql",
+  "mongodb",
+  "redis",
+  "sql server",
+  "ms sql",
+  "snowflake",
+  "oracle",
+  "google bigquery",
+  "azure databricks"
+]

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "python automation, selenium, web automation, Jira, SQL, test rail, confluence, Testing",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Angular Developer with Material CSS, 1-2 years",
+  "industry": ""
+}

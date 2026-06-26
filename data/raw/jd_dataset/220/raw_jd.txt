@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python developer with Cloud experience for a genai project",
+  "industry": ""
+}

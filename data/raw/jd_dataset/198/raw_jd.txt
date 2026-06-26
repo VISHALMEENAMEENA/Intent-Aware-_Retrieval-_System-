@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Preferred to have more than 2 years’ experience in Automotive Product Design in at least one of listed below –\n - Interior/ Exterior / Seating\n- BiW\n- Engine/Powertrain/Driveline\n- Chassis / Suspension / Steering / Brakes / Exhaust\n- HVAC , Cooling\nExperience in Part Design & Manufacturing technology awareness for at least one of listed below –\n- Sheetmetal\n- Casting & Machining\n- Plastics , Injection Molding\n- Pipes & Hoses Routing\nCAD skills in Solid/Sheetmetal/Surfacing/Drawing/Large assemblies\n- Catia V5 or Creo\nPLM / PDM Exposure\n- Windchill or other equivalent tool\nWorking exposure in GD&T\nKnowledge of New Product Development\nPreferred to have knowledge of Fit/Function/Tolerance",
+  "industry": ""
+}

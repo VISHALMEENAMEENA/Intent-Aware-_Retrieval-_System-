@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React Developer with nextjs , Gen AI experience. 5+ years",
+  "industry": ""
+}

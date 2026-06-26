@@ -1,0 +1,4 @@
+{
+  "raw_jd": "python developer, azure, genai, cicd, sdlc",
+  "industry": ""
+}

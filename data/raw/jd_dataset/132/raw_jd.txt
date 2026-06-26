@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java J2EE Senior Tech Lead at HCLTech. Location: Chennai or Noida. Responsibilities include leading a team, designing, developing, and deploying applications using Java J2EE, Microservices, Spring Boot. Requires 1+ years experience in Java J2EE, strong leadership, application design, Agile/Scrum methodologies, problem-solving, and communication skills. Optional: experience with AWS, Azure, Google Cloud, Docker, Kubernetes, DevOps, certifications in Java.",
+  "industry": ""
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Technical Lead , 5 years plus, Java J2EE Microservices",
+  "industry": ""
+}

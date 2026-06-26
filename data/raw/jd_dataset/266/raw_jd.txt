@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React Developer with nextjs , tailwind . 5+ years expereince in ecommerce projects",
+  "industry": ""
+}

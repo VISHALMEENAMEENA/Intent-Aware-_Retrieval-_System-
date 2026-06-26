@@ -1,0 +1,4 @@
+{
+  "raw_jd": "<p>HELLO<br>goodbye</p> React Developer with next js , 5 years\n ",
+  "industry": ""
+}

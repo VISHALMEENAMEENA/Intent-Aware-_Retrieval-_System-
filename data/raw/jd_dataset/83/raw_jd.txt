@@ -1,0 +1,4 @@
+{
+  "raw_jd": "C++ embedded developer , 2+ years",
+  "industry": ""
+}

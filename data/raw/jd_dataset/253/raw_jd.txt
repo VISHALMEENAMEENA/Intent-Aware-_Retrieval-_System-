@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React Developer with Nextjs and Tailwind CSS. Experience in migration from Angular to React willb e a plus",
+  "industry": ""
+}

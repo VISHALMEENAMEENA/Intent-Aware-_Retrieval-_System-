@@ -1,0 +1,4 @@
+{
+  "raw_jd": "python developer, backend, llm, agentic ai, ",
+  "industry": "Technology"
+}

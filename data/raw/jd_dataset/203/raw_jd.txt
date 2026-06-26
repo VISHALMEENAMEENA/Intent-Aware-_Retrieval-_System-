@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Backend Developer, Django, fastapi, 2-4 years experience",
+  "industry": "Technology"
+}

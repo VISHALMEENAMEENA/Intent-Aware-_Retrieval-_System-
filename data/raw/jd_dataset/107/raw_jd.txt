@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java , Eclipse Plugin developer, 7 years",
+  "industry": ""
+}

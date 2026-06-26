@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java, J2EE, Architect , 8 years , Microservices",
+  "industry": ""
+}

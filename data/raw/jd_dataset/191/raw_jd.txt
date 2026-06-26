@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Persons having extensive experience in core AI/ML engineering, building AI application which includes building AI enabled data extraction, curation and transformation pipelines, building and deploying services using finetuned AI / GenAI models or foundation models, integrating with enterprise application and front end application and deploying applications at scale with continuous training and refining of models with human feedback",
+  "industry": ""
+}

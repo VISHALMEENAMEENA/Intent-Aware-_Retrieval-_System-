@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java J2EE Developer with SQL Experience. Oracle DB",
+  "industry": ""
+}

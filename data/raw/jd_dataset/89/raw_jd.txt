@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Data Entry operator, good typing speed . English and Hindi",
+  "industry": ""
+}

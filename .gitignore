@@ -1,4 +1,128 @@
-venv/
+# ===========================
+# Python
+# ===========================
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# ===========================
+# Virtual Environment
+# ===========================
+venv/
+.venv/
+
+# ===========================
+# Environment Variables
+# ===========================
 .env
+.env.*
+api/*.env
+api/*.key
+evaluation/*.env
+validation/*.env
+
+# ===========================
+# IDE
+# ===========================
+.vscode/
+.idea/
+
+# ===========================
+# OS
+# ===========================
+.DS_Store
+Thumbs.db
+
+# ===========================
+# Logs
+# ===========================
+logs/
+*.log
+
+# ===========================
+# Python Cache
+# ===========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ===========================
+# Jupyter
+# ===========================
+.ipynb_checkpoints/
+
+# ===========================
+# HuggingFace Cache
+# ===========================
+.cache/
+huggingface/
+sentence_transformers/
+
+# ===========================
+# Generated Embeddings
+# ===========================
+embeddings/
+
+# ===========================
+# FAISS
+# ===========================
+faiss/indexes/
+
+# ===========================
+# OpenSearch Local Data
+# ===========================
+opensearch/data/
+
+# ===========================
+# Neo4j Local Database
+# ===========================
+neo4j/data/
+neo4j/logs/
+
+# ===========================
+# Evaluation Outputs
+# ===========================
+evaluation/*.csv
+validation/*.csv
+evaluation/_smoke_eval*/
+
+# Keep markdown summaries
+!evaluation/*.md
+!validation/*.md
+
+# ===========================
+# Temporary
+# ===========================
+tmp/
+temp/
+eval/
+status_file.txt
+cached_files.txt
+
+# ===========================
+# Binary Files
+# ===========================
+*.bin
+*.npy
+*.npz
+*.joblib
+*.pkl
+
+evaluation/evaluation_summary.md
+evaluation/keyword_coverage.png
+evaluation/retrieval_time.png
+validation/pipeline_validation.md
+validation/validation_results.json
+
+# ===========================
+# SQLite
+# ===========================
+*.db
+*.sqlite
+*.sqlite3
+env
+
+embeddings/
+faiss/indexes/

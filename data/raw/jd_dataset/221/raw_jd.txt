@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Developer with Gen AI experience",
+  "industry": ""
+}

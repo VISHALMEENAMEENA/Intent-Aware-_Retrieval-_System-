@@ -1,0 +1,4 @@
+{
+  "raw_jd": "onmouseover=\"alert('XSS') \nReact JS",
+  "industry": ""
+}

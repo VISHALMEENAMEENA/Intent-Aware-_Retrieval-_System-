@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React DEveloper with nextjs , tailwind css",
+  "industry": ""
+}

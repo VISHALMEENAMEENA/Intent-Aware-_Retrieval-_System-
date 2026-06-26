@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: JAVA J2EE developer\n        Location: Arizona (Client Location)\n        Country: India\n        Experience Required: 4 - 8 years\n        \n        Primary Skills: JAVA__J2EE__springboot__hibernate\n        Secondary Skills: backend API\n        \n        Job Description:\n        JAVA J2EE developer with backend API development experience\n        \n        Additional Requirements:\n        None",
+  "industry": "Any Industry"
+}

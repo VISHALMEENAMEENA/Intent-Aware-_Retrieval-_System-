@@ -1,0 +1,4 @@
+{
+  "raw_jd": "ServiceNow Engineer, tech support specialist, 1 year + experience",
+  "industry": ""
+}

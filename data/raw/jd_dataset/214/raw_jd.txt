@@ -1,0 +1,4 @@
+{
+  "raw_jd": "python developer, dsa, system design, GenAI",
+  "industry": ""
+}

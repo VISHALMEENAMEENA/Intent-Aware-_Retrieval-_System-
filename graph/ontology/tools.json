@@ -1,0 +1,22 @@
+[
+  "docker",
+  "kubernetes",
+  "git",
+  "postman",
+  "jenkins",
+  "terraform",
+  "ansible",
+  "jira",
+  "selenium",
+  "airflow",
+  "apache spark",
+  "spark",
+  "amazon glue",
+  "azure data factory (adf)",
+  "power bi",
+  "tableau",
+  "xcode",
+  "android studio",
+  "servicenow",
+  "remedy"
+]

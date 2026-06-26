@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React DEveloper 2 years",
+  "industry": ""
+}

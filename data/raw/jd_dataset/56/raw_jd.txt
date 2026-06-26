@@ -1,0 +1,4 @@
+{
+  "raw_jd": "ai developer, ml developer, model train, fine tuning, vector db",
+  "industry": ""
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React DEveloper with NextJS and Tailwind css , 5 years or more",
+  "industry": ""
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React developer, 5 years experience",
+  "industry": ""
+}

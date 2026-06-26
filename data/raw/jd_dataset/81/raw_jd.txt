@@ -1,0 +1,4 @@
+{
+  "raw_jd": "C , C++ Senior Developer with Embedded RTOS project experience, 5-8 years ",
+  "industry": ""
+}

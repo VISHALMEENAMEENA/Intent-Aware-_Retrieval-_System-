@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior React Developer , exposure to Tailwind CSS, NextJS , 2-5 years experience",
+  "industry": "Any Industry"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React DEveloper , nextjs , 3.5 years experience or more",
+  "industry": ""
+}

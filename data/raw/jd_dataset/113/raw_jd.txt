@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java J2EE Developer, 5 years experience, Spring Boot exposure",
+  "industry": ""
+}

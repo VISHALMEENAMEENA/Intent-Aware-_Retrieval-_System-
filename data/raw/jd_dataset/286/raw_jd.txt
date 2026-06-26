@@ -1,0 +1,4 @@
+{
+  "raw_jd": "To develop and deliver codes for the work assigned in accordance with time| quality and cost standards. (1.) Key Responsibilities\n1. To maintain existing features, troubleshoot bugs , resolve ad-hoc requests and provide support for enhancement (major and minor) /new developments based on business/ client requirements as well as from the functional and technical team of HCL on the project.\n2. To provide client support by presenting data, information, ticket resolution and day to day support activities like monitoring client requirements as well as keeping track of schedule for on time delivery of assigned tasks as per the defined quality standards.\n3. To perform activities related to enhancement creation of documents for CMMi and client requirements\n4. To provide technical guidance to junior developers\n5. To interact with the customer and internal teams to gather requirements for development purposes.",
+  "industry": ""
+}

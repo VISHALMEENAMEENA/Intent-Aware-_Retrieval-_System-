@@ -1,0 +1,102 @@
+[
+  {
+    "query": "python backend developer",
+    "intent": "profile_search",
+    "expected_keywords": ["python", "backend", "developer", "java", "software"]
+  },
+  {
+    "query": "java spring boot developer",
+    "intent": "profile_search",
+    "expected_keywords": ["java", "spring boot", "backend", "microservices", "developer"]
+  },
+  {
+    "query": "devops engineer cloud ci cd",
+    "intent": "profile_search",
+    "expected_keywords": ["devops", "cloud", "aws", "azure", "ci/cd"]
+  },
+  {
+    "query": "qa automation tester selenium",
+    "intent": "profile_search",
+    "expected_keywords": ["qa", "automation", "selenium", "testing", "test"]
+  },
+  {
+    "query": "data analyst sql power bi",
+    "intent": "profile_search",
+    "expected_keywords": ["data", "sql", "power bi", "analyst", "analytics"]
+  },
+  {
+    "query": "project manager agile scrum",
+    "intent": "profile_search",
+    "expected_keywords": ["project manager", "agile", "scrum", "stakeholder", "management"]
+  },
+  {
+    "query": "regulatory affairs compliance specialist",
+    "intent": "profile_search",
+    "expected_keywords": ["regulatory affairs", "compliance", "fda", "legal", "research"]
+  },
+  {
+    "query": "backend jobs in pune",
+    "intent": "job_search",
+    "expected_keywords": ["backend", "pune", "java", "python", "spring"]
+  },
+  {
+    "query": "servicenow technical lead",
+    "intent": "job_search",
+    "expected_keywords": ["servicenow", "technical", "lead", "itbm", "developer"]
+  },
+  {
+    "query": "test manager bengaluru",
+    "intent": "job_search",
+    "expected_keywords": ["test manager", "bengaluru", "testing", "manager", "qa"]
+  },
+  {
+    "query": "windows support arabic english pune",
+    "intent": "job_search",
+    "expected_keywords": ["windows", "arabic", "english", "pune", "support"]
+  },
+  {
+    "query": "java j2ee spring boot tech lead",
+    "intent": "job_search",
+    "expected_keywords": ["java", "j2ee", "spring boot", "tech lead", "pune"]
+  },
+  {
+    "query": "data engineer jobs",
+    "intent": "job_search",
+    "expected_keywords": ["data engineer", "sql", "python", "etl", "cloud"]
+  },
+  {
+    "query": "frontend developer react",
+    "intent": "job_search",
+    "expected_keywords": ["frontend", "react", "javascript", "developer", "web"]
+  },
+  {
+    "query": "test manager responsibilities",
+    "intent": "jd_search",
+    "expected_keywords": ["test", "manager", "responsibilities", "strategy", "automation"]
+  },
+  {
+    "query": "qa engineer test cases regression",
+    "intent": "jd_search",
+    "expected_keywords": ["qa", "test cases", "regression", "defects", "quality"]
+  },
+  {
+    "query": "python developer responsibilities",
+    "intent": "jd_search",
+    "expected_keywords": ["python", "developer", "apis", "backend", "software"]
+  },
+  {
+    "query": "project manager stakeholder delivery",
+    "intent": "jd_search",
+    "expected_keywords": ["project manager", "stakeholder", "delivery", "planning", "risk"]
+  },
+  {
+    "query": "servicenow developer requirements",
+    "intent": "jd_search",
+    "expected_keywords": ["servicenow", "developer", "workflow", "itbm", "integration"]
+  },
+  {
+    "query": "data analyst job description",
+    "intent": "jd_search",
+    "expected_keywords": ["data", "analyst", "sql", "reports", "dashboard"]
+  }
+]

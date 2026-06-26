@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java J2EE Full Stack Developer with 5+ years experience in Enterprise solutiones",
+  "industry": ""
+}

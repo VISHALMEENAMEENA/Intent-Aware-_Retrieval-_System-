@@ -1,0 +1,4 @@
+{
+  "raw_jd": "python ml engineer full stack ai developer",
+  "industry": "Technology"
+}

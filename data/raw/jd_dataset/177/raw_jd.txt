@@ -1,0 +1,4 @@
+{
+  "raw_jd": ".Net developer with 5 years of experience. knowlede of .net core is must. Expert in creating microservices. must know ORM",
+  "industry": ""
+}

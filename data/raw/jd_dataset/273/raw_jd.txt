@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React Deverloper with experience in NextJS. Migration from an Angular app to React required",
+  "industry": "Technology"
+}

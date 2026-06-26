@@ -1,0 +1,4 @@
+{
+  "raw_jd": "C, C++, RTOS developer, 1+ experience",
+  "industry": ""
+}

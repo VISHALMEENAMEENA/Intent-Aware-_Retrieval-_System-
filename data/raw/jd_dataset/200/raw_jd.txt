@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Primary Skills\tC++\nSecondary Skills\t Linux(Competent)\nDesignation\tSenior Technical Lead\nExperience\t\nJob Family\tTesting / Validation\nJob\tSenior Technical Lead\nJobDescription\tTo be responsible for managing technology in complex projects ,providing technical guidance and ensuring succesful delivery of solutions.\n",
+  "industry": ""
+}
